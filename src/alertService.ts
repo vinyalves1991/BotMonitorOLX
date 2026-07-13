@@ -6,6 +6,7 @@ import { politeDelay, scrapeOlxSearch } from "./olxScraper.js";
 import { scoreAd } from "./scoreService.js";
 import { loadSentAds, markAsSent, saveSentAds } from "./storageService.js";
 import { sendTelegramMessage, validateTelegramEnv } from "./telegramService.js";
+import { sendWhatsappMessage } from "./whatsappService.js";
 import { AlertConfig, RunStats } from "./types.js";
 
 const alertsPath = path.resolve("config", "alerts.json");
@@ -160,6 +161,10 @@ export async function runAlerts(): Promise<RunStats> {
 
         if (alert.enviarTelegram) {
           await sendTelegramMessage(alert, scoredAd);
+        }
+
+        if (process.env.CALLMEBOT_API_KEY && (alert.whatsappPhone || process.env.WHATSAPP_PHONE)) {
+          await sendWhatsappMessage(alert, scoredAd);
         }
 
         markAsSent(sentAds, uniqueKey, ad.link, scoredAd);
