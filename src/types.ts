@@ -17,6 +17,7 @@ export type AlertConfig = {
   enviarTelegram?: boolean;
   telegramChatId?: string | number;
   whatsappPhone?: string;
+  whatsappApiKey?: string;
 };
 
 export type OlxAd = {

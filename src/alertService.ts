@@ -186,7 +186,7 @@ export async function runAlerts(): Promise<RunStats> {
           await sendTelegramMessage(alert, scoredAd);
         }
 
-        if (process.env.CALLMEBOT_API_KEY && (alert.whatsappPhone || process.env.WHATSAPP_PHONE || process.env.CALLMEBOT_PHONE)) {
+        if ((alert.whatsappApiKey || process.env.CALLMEBOT_API_KEY) && (alert.whatsappPhone || process.env.WHATSAPP_PHONE || process.env.CALLMEBOT_PHONE)) {
           await sendWhatsappMessage(alert, scoredAd);
         }
 
