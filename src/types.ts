@@ -34,9 +34,16 @@ export type ScoredAd = OlxAd & {
   score: number;
   classificacao: OpportunityLevel;
   motivosScore: string[];
+  isPriceDrop?: boolean;
+  oldPriceTexto?: string;
 };
 
 export type OpportunityLevel = "alta" | "media" | "baixa";
+
+export type AdHistory = {
+  priceTexto: string;
+  date: string;
+};
 
 export type SentAd = {
   id: string;
@@ -46,6 +53,7 @@ export type SentAd = {
   priceTexto?: string;
   score?: number;
   level?: OpportunityLevel;
+  history?: AdHistory[];
 };
 
 export type StorageData = SentAd[];
