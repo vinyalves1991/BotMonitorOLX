@@ -7,8 +7,22 @@
     "urlBuscaOlx": "https://www.olx.com.br/brasil?q=oppo%20find%20x9%20pro",
     "precoMinimo": 4000,
     "precoMaximo": 5600,
-    "palavrasObrigatorias": ["oppo"],
-    "palavrasBloqueadas": ["carcaça", "placa", "quebrada", "quebrado", "trincada", "trincado", "defeito", "assistência", "assistencia", "conserto", "sucata"],
+    "palavrasObrigatorias": [
+      "oppo"
+    ],
+    "palavrasBloqueadas": [
+      "carcaça",
+      "placa",
+      "quebrada",
+      "quebrado",
+      "trincada",
+      "trincado",
+      "defeito",
+      "assistência",
+      "assistencia",
+      "conserto",
+      "sucata"
+    ],
     "maxPaginas": 1
   },
   {
@@ -19,9 +33,27 @@
     "urlBuscaOlx": "https://www.olx.com.br/brasil?q=vivo%20x300%20pro",
     "precoMinimo": 4000,
     "precoMaximo": 5600,
-    "palavrasObrigatorias": ["vivo", "x300"],
-    "palavrasObrigatoriasTodas": ["vivo", "x300"],
-    "palavrasBloqueadas": ["réplica", "replica", "slim", "defeito", "quebrada", "quebrado", "cn", "china", "rom chinesa", "versão chinesa", "versao chinesa"],
+    "palavrasObrigatorias": [
+      "vivo",
+      "x300"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "vivo",
+      "x300"
+    ],
+    "palavrasBloqueadas": [
+      "réplica",
+      "replica",
+      "slim",
+      "defeito",
+      "quebrada",
+      "quebrado",
+      "cn",
+      "china",
+      "rom chinesa",
+      "versão chinesa",
+      "versao chinesa"
+    ],
     "maxPaginas": 1
   },
   {
@@ -32,9 +64,28 @@
     "urlBuscaOlx": "https://www.olx.com.br/brasil?q=vivo%20x200%20pro",
     "precoMinimo": 3500,
     "precoMaximo": 5000,
-    "palavrasObrigatorias": ["vivo", "x200"],
-    "palavrasObrigatoriasTodas": ["vivo", "x200"],
-    "palavrasBloqueadas": ["réplica", "replica", "quebrada", "quebrado", "trincado", "trincada", "defeito", "cn", "china", "rom chinesa", "versão chinesa", "versao chinesa"],
+    "palavrasObrigatorias": [
+      "vivo",
+      "x200"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "vivo",
+      "x200"
+    ],
+    "palavrasBloqueadas": [
+      "réplica",
+      "replica",
+      "quebrada",
+      "quebrado",
+      "trincado",
+      "trincada",
+      "defeito",
+      "cn",
+      "china",
+      "rom chinesa",
+      "versão chinesa",
+      "versao chinesa"
+    ],
     "maxPaginas": 1
   },
   {
@@ -45,9 +96,30 @@
     "urlBuscaOlx": "https://www.olx.com.br/brasil?q=honor%20magic%207%20pro",
     "precoMinimo": 2500,
     "precoMaximo": 4100,
-    "palavrasObrigatorias": ["honor", "magic", "7"],
-    "palavrasObrigatoriasTodas": ["honor", "magic", "7"],
-    "palavrasBloqueadas": ["lite", "v3", "v2", "6 pro", "capinha", "case", "película", "pelicula", "defeito", "quebrado", "trincado", "danificado"],
+    "palavrasObrigatorias": [
+      "honor",
+      "magic",
+      "7"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "honor",
+      "magic",
+      "7"
+    ],
+    "palavrasBloqueadas": [
+      "lite",
+      "v3",
+      "v2",
+      "6 pro",
+      "capinha",
+      "case",
+      "película",
+      "pelicula",
+      "defeito",
+      "quebrado",
+      "trincado",
+      "danificado"
+    ],
     "maxPaginas": 1
   },
   {
@@ -58,9 +130,21 @@
     "urlBuscaOlx": "https://www.olx.com.br/brasil?q=realme%20buds%207",
     "precoMinimo": 200,
     "precoMaximo": 320,
-    "palavrasObrigatorias": ["realme", "buds"],
-    "palavrasObrigatoriasTodas": ["realme", "buds"],
-    "palavrasBloqueadas": ["conserto", "defeito", "lado esquerdo", "lado direito", "avulso"],
+    "palavrasObrigatorias": [
+      "realme",
+      "buds"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "realme",
+      "buds"
+    ],
+    "palavrasBloqueadas": [
+      "conserto",
+      "defeito",
+      "lado esquerdo",
+      "lado direito",
+      "avulso"
+    ],
     "maxPaginas": 1
   },
   {
@@ -71,9 +155,22 @@
     "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20soundcore%20life%204",
     "precoMinimo": 200,
     "precoMaximo": 280,
-    "palavrasObrigatorias": ["anker", "life"],
-    "palavrasObrigatoriasTodas": ["anker", "life"],
-    "palavrasBloqueadas": ["lado esquerdo", "lado direito", "avulso", "defeito", "caixa vazia", "golpe"],
+    "palavrasObrigatorias": [
+      "anker",
+      "life"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "anker",
+      "life"
+    ],
+    "palavrasBloqueadas": [
+      "lado esquerdo",
+      "lado direito",
+      "avulso",
+      "defeito",
+      "caixa vazia",
+      "golpe"
+    ],
     "maxPaginas": 1
   },
   {
@@ -84,9 +181,22 @@
     "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20soundcore%20life%205",
     "precoMinimo": 200,
     "precoMaximo": 350,
-    "palavrasObrigatorias": ["anker", "life"],
-    "palavrasObrigatoriasTodas": ["anker", "life"],
-    "palavrasBloqueadas": ["lado esquerdo", "lado direito", "avulso", "defeito", "caixa vazia", "golpe"],
+    "palavrasObrigatorias": [
+      "anker",
+      "life"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "anker",
+      "life"
+    ],
+    "palavrasBloqueadas": [
+      "lado esquerdo",
+      "lado direito",
+      "avulso",
+      "defeito",
+      "caixa vazia",
+      "golpe"
+    ],
     "maxPaginas": 1
   },
   {
@@ -97,9 +207,34 @@
     "urlBuscaOlx": "https://www.olx.com.br/autos-e-pecas/carros-vans-e-utilitarios/brasil?q=audi%20a3%20sedan",
     "precoMinimo": 70000,
     "precoMaximo": 160000,
-    "palavrasObrigatorias": ["sed", "a3"],
-    "palavrasObrigatoriasTodas": ["a3"],
-    "palavrasBloqueadas": ["2014", "2015", "2016", "leilão", "leilao", "recuperado", "sinistro", "sinistrado", "batido", "sucata", "peças", "pecas", "consórcio", "consorcio", "roda", "rodas", "farol", "faróis", "miniatura"],
+    "palavrasObrigatorias": [
+      "sed",
+      "a3"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "a3"
+    ],
+    "palavrasBloqueadas": [
+      "2014",
+      "2015",
+      "2016",
+      "leilão",
+      "leilao",
+      "recuperado",
+      "sinistro",
+      "sinistrado",
+      "batido",
+      "sucata",
+      "peças",
+      "pecas",
+      "consórcio",
+      "consorcio",
+      "roda",
+      "rodas",
+      "farol",
+      "faróis",
+      "miniatura"
+    ],
     "maxPaginas": 1,
     "telegramChatId": "-5524154308"
   },
@@ -111,9 +246,50 @@
     "urlBuscaOlx": "https://www.olx.com.br/brasil?q=jaqueta%20north%20face%2016",
     "precoMinimo": 150,
     "precoMaximo": 400,
-    "palavrasObrigatorias": ["north", "face"],
-    "palavrasObrigatoriasTodas": ["north", "face"],
-    "palavrasBloqueadas": ["feminina", "feminino", "moça", "médio", "tamanho m", "tamanho g"],
+    "palavrasObrigatorias": [
+      "north",
+      "face"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "north",
+      "face"
+    ],
+    "palavrasBloqueadas": [
+      "feminina",
+      "feminino",
+      "moça",
+      "médio",
+      "tamanho m",
+      "tamanho g"
+    ],
     "maxPaginas": 1
+  },
+  {
+    "id": "anker-x10",
+    "nome": "Anker x10",
+    "ativo": true,
+    "termoBusca": "anker x10",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20x10",
+    "precoMinimo": 100,
+    "precoMaximo": 250,
+    "palavrasObrigatorias": [
+      "anker",
+      "x10"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "anker",
+      "x10"
+    ],
+    "palavrasBloqueadas": [
+      "lado",
+      "só o case",
+      "so o case",
+      "case vazio",
+      "defeito",
+      "quebrado"
+    ],
+    "maxPaginas": 1,
+    "whatsappPhone": "NUMERO_DO_SEU_AMIGO",
+    "whatsappApiKey": "API_KEY_DO_SEU_AMIGO"
   }
 ]
