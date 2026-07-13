@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BotMonitoramentoOLX Dashboard</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* Transições suaves */
+    .fade-in {
+      animation: fadeIn 0.5s ease-in-out;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body class="bg-gray-100 font-sans text-gray-800">
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <header class="mb-8 flex flex-col md:flex-row md:items-center md:justify-between">
+      <div>
+        <h1 class="text-3xl font-bold text-gray-900">Dashboard de Monitoramento</h1>
+        <p class="text-sm text-gray-500 mt-1">Anúncios recentes encontrados pelo BotMonitoramentoOLX</p>
+      </div>
+      <div class="mt-4 md:mt-0 text-sm text-gray-500">
+        <span id="lastUpdated" class="font-medium bg-white px-3 py-1 rounded-full shadow-sm">Atualizando...</span>
+      </div>
+    </header>
+
+    <!-- Indicadores -->
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8 fade-in">
+      <div class="bg-white rounded-xl shadow-sm p-6 border border-gray-100 border-l-4 border-l-blue-500">
+        <h3 class="text-sm font-medium text-gray-500 mb-1">Total de Anúncios</h3>
+        <p class="text-3xl font-bold text-gray-900" id="totalAds">-</p>
+      </div>
+
+      <div class="bg-white rounded-xl shadow-sm p-6 border border-gray-100 border-l-4 border-l-red-500">
+        <h3 class="text-sm font-medium text-gray-500 mb-1">Alta Oportunidade (🔥)</h3>
+        <p class="text-3xl font-bold text-gray-900" id="highOportunities">-</p>
+      </div>
+
+      <div class="bg-white rounded-xl shadow-sm p-6 border border-gray-100 border-l-4 border-l-yellow-500">
+        <h3 class="text-sm font-medium text-gray-500 mb-1">Oportunidade Média (🟡)</h3>
+        <p class="text-3xl font-bold text-gray-900" id="mediumOportunities">-</p>
+      </div>
+
+      <div class="bg-white rounded-xl shadow-sm p-6 border border-gray-100 border-l-4 border-l-gray-400">
+        <h3 class="text-sm font-medium text-gray-500 mb-1">Últimas 24 horas</h3>
+        <p class="text-3xl font-bold text-gray-900" id="last24Ads">-</p>
+      </div>
+    </div>
+
+    <!-- Tabela de anúncios -->
+    <div class="bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100 fade-in" style="animation-delay: 0.1s;">
+      <div class="p-6 border-b border-gray-100 bg-gray-50/50 flex justify-between items-center">
+        <h2 class="text-lg font-semibold text-gray-800">Últimos anúncios (100 mais recentes)</h2>
+      </div>
+
+      <div class="overflow-x-auto">
+        <table class="min-w-full divide-y divide-gray-200">
+          <thead class="bg-gray-50">
+            <tr>
+              <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Data</th>
+              <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Título</th>
+              <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Preço</th>
+              <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Score</th>
+              <th scope="col" class="px-6 py-3 text-center text-xs font-medium text-gray-500 uppercase tracking-wider">Ação</th>
+            </tr>
+          </thead>
+          <tbody id="adsTableBody" class="bg-white divide-y divide-gray-200">
+            <tr>
+              <td colspan="5" class="px-6 py-8 text-center text-gray-500">
+                Carregando dados...
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        // Tenta carregar o JSON (no github pages o arquivo estará em ./data/sent-ads.json)
+        const response = await fetch('./data/sent-ads.json');
+        if (!response.ok) {
+          throw new Error('Falha ao carregar os dados');
+        }
+
+        const data = await response.json();
+
+        // Atualiza a data
+        document.getElementById('lastUpdated').textContent = 'Última atualização: ' + new Date().toLocaleString('pt-BR');
+
+        // Ordena por mais recente primeiro
+        const sortedData = data.sort((a, b) => new Date(b.sentAt) - new Date(a.sentAt));
+
+        // Indicadores
+        document.getElementById('totalAds').textContent = sortedData.length;
+
+        const high = sortedData.filter(ad => ad.level === 'alta').length;
+        document.getElementById('highOportunities').textContent = high;
+
+        const medium = sortedData.filter(ad => ad.level === 'media').length;
+        document.getElementById('mediumOportunities').textContent = medium;
+
+        const now = new Date();
+        const yesterday = new Date(now.getTime() - (24 * 60 * 60 * 1000));
+        const last24h = sortedData.filter(ad => new Date(ad.sentAt) >= yesterday).length;
+        document.getElementById('last24Ads').textContent = last24h;
+
+        // Renderiza tabela (pega apenas os 100 mais recentes)
+        const tableBody = document.getElementById('adsTableBody');
+        tableBody.innerHTML = ''; // Limpa loading
+
+        const recentAds = sortedData.slice(0, 100);
+
+        if (recentAds.length === 0) {
+          tableBody.innerHTML = '<tr><td colspan="5" class="px-6 py-8 text-center text-gray-500">Nenhum anúncio encontrado.</td></tr>';
+          return;
+        }
+
+        recentAds.forEach(ad => {
+          const tr = document.createElement('tr');
+          tr.className = 'hover:bg-gray-50 transition-colors';
+
+          // Formata data
+          const dateStr = new Date(ad.sentAt).toLocaleString('pt-BR', {
+            day: '2-digit', month: '2-digit', year: 'numeric',
+            hour: '2-digit', minute: '2-digit'
+          });
+
+          // Badge pro score/level
+          let badgeColor = 'bg-gray-100 text-gray-800 border-gray-200';
+          let levelIcon = '⚪';
+          if (ad.level === 'alta') {
+            badgeColor = 'bg-red-50 text-red-700 border-red-200';
+            levelIcon = '🔥';
+          } else if (ad.level === 'media') {
+            badgeColor = 'bg-yellow-50 text-yellow-700 border-yellow-200';
+            levelIcon = '🟡';
+          }
+
+          const scoreBadge = ad.score !== undefined
+            ? `<span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium border ${badgeColor}">
+                ${levelIcon} ${ad.score}
+               </span>`
+            : '<span class="text-gray-400 text-xs">-</span>';
+
+          tr.innerHTML = `
+            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+              ${dateStr}
+            </td>
+            <td class="px-6 py-4 text-sm font-medium text-gray-900 max-w-xs truncate" title="${ad.title || ad.url}">
+              ${ad.title || 'Título não disponível'}
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap text-sm font-semibold text-gray-700">
+              ${ad.priceTexto || '-'}
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap">
+              ${scoreBadge}
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap text-center text-sm font-medium">
+              <a href="${ad.url}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center text-blue-600 hover:text-blue-900 hover:underline">
+                Ver anúncio
+                <svg class="ml-1 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+              </a>
+            </td>
+          `;
+          tableBody.appendChild(tr);
+        });
+
+      } catch (error) {
+        console.error('Erro ao carregar dashboard', error);
+        document.getElementById('adsTableBody').innerHTML = `
+          <tr>
+            <td colspan="5" class="px-6 py-8 text-center text-red-500">
+              Erro ao carregar dados. Verifique se o arquivo data/sent-ads.json existe e está acessível.
+            </td>
+          </tr>`;
+      }
+    });
+  </script>
+</body>
+</html>
