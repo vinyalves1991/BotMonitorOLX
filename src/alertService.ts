@@ -6,7 +6,7 @@ import { politeDelay, scrapeOlxSearch } from "./olxScraper.js";
 import { scoreAd } from "./scoreService.js";
 import { loadSentAds, markAsSent, saveSentAds } from "./storageService.js";
 import { sendTelegramMessage, validateTelegramEnv } from "./telegramService.js";
-import { sendWhatsappMessage } from "./whatsappService.js";
+import { getWhatsappCredentials, sendWhatsappMessage } from "./whatsappService.js";
 import { AlertConfig, RunStats } from "./types.js";
 
 const alertsPath = path.resolve("config", "alerts.json");
@@ -186,7 +186,8 @@ export async function runAlerts(): Promise<RunStats> {
           await sendTelegramMessage(alert, scoredAd);
         }
 
-        if ((alert.whatsappApiKey || process.env.CALLMEBOT_API_KEY) && (alert.whatsappPhone || process.env.WHATSAPP_PHONE || process.env.CALLMEBOT_PHONE)) {
+        const wpCreds = getWhatsappCredentials(alert);
+        if (wpCreds.apiKey && wpCreds.phone) {
           await sendWhatsappMessage(alert, scoredAd);
         }
 
