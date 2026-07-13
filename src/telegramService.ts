@@ -34,7 +34,7 @@ export async function sendTelegramMessage(alert: AlertConfig, ad: ScoredAd) {
   validateTelegramEnv();
 
   const token = process.env.TELEGRAM_BOT_TOKEN;
-  const chatId = process.env.TELEGRAM_CHAT_ID;
+  const chatId = alert.telegramChatId || process.env.TELEGRAM_CHAT_ID;
   const url = `https://api.telegram.org/bot${token}/sendMessage`;
 
   const message = [

@@ -15,6 +15,7 @@ export type AlertConfig = {
   ordenarPorRecentes?: boolean;
   quantidadeMaximaPorExecucao?: number;
   enviarTelegram?: boolean;
+  telegramChatId?: string | number;
 };
 
 export type OlxAd = {

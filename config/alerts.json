@@ -1,212 +1,119 @@
 [
   {
-    "id": "ps5-ate-2500",
-    "nome": "PS5 até 2500",
+    "id": "oppo-find-x9-pro",
+    "nome": "Oppo Find x9 Pro",
     "ativo": true,
-    "termoBusca": "playstation 5",
-    "precoMinimo": 1400,
-    "precoMaximo": 2500,
-    "palavrasObrigatorias": [
-      "ps5",
-      "playstation 5",
-      "play 5"
-    ],
-    "palavrasBloqueadas": [
-      "vendo conta",
-      "conta psn",
-      "somente caixa",
-      "caixa vazia",
-      "somente controle",
-      "apenas controle",
-      "dualsense separado",
-      "conserto",
-      "assistencia",
-      "assistência",
-      "placa",
-      "carcaça"
-    ],
-    "scoreMinimo": 45
+    "termoBusca": "oppo find x9 pro",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=oppo%20find%20x9%20pro",
+    "precoMinimo": 4000,
+    "precoMaximo": 5600,
+    "palavrasObrigatorias": ["oppo"],
+    "palavrasBloqueadas": ["carcaça", "placa", "quebrada", "quebrado", "trincada", "trincado", "defeito", "assistência", "assistencia", "conserto", "sucata"],
+    "maxPaginas": 1
   },
-
   {
-    "id": "ps4-ate-900",
-    "nome": "PS4 até 900",
+    "id": "vivo-x300-pro-global",
+    "nome": "Vivo x300 Pro Global",
     "ativo": true,
-    "termoBusca": "ps4",
-    "precoMinimo": 250,
-    "precoMaximo": 900,
-    "palavrasObrigatorias": [
-      "ps4",
-      "playstation 4",
-      "play 4"
-    ],
-    "palavrasBloqueadas": [
-      "vendo conta",
-      "conta psn",
-      "somente controle",
-      "apenas controle",
-      "somente caixa",
-      "caixa vazia",
-      "dualshock separado",
-      "placa",
-      "carcaça"
-    ],
-    "scoreMinimo": 35
+    "termoBusca": "vivo x300 pro",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=vivo%20x300%20pro",
+    "precoMinimo": 4000,
+    "precoMaximo": 5600,
+    "palavrasObrigatorias": ["vivo", "x300"],
+    "palavrasObrigatoriasTodas": ["vivo", "x300"],
+    "palavrasBloqueadas": ["réplica", "replica", "slim", "defeito", "quebrada", "quebrado", "cn", "china", "rom chinesa", "versão chinesa", "versao chinesa"],
+    "maxPaginas": 1
   },
-
   {
-    "id": "switch-oled",
-    "nome": "Switch OLED até 1300",
+    "id": "vivo-x200-pro-global",
+    "nome": "Vivo x200 Pro Global",
     "ativo": true,
-    "termoBusca": "switch oled",
-    "precoMinimo": 700,
-    "precoMaximo": 1300,
-    "palavrasObrigatorias": [
-      "oled"
-    ],
-    "palavrasObrigatoriasTodas": [
-      "switch"
-    ],
-    "palavrasBloqueadas": [
-      "lite",
-      "somente joycon",
-      "somente controle",
-      "dock separado"
-    ],
-    "scoreMinimo": 40
+    "termoBusca": "vivo x200 pro",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=vivo%20x200%20pro",
+    "precoMinimo": 3500,
+    "precoMaximo": 5000,
+    "palavrasObrigatorias": ["vivo", "x200"],
+    "palavrasObrigatoriasTodas": ["vivo", "x200"],
+    "palavrasBloqueadas": ["réplica", "replica", "quebrada", "quebrado", "trincado", "trincada", "defeito", "cn", "china", "rom chinesa", "versão chinesa", "versao chinesa"],
+    "maxPaginas": 1
   },
-
   {
-    "id": "switch-normal",
-    "nome": "Switch normal até 1000",
+    "id": "honor-magic-7-pro",
+    "nome": "Honor Magic 7 Pro",
     "ativo": true,
-    "termoBusca": "nintendo switch",
-    "precoMinimo": 500,
-    "precoMaximo": 1000,
-    "palavrasObrigatorias": [
-      "switch",
-      "nintendo switch"
-    ],
-    "palavrasBloqueadas": [
-      "oled",
-      "lite",
-      "somente joycon",
-      "somente controle"
-    ],
-    "scoreMinimo": 35
+    "termoBusca": "honor magic 7 pro",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=honor%20magic%207%20pro",
+    "precoMinimo": 2500,
+    "precoMaximo": 4100,
+    "palavrasObrigatorias": ["honor", "magic", "7"],
+    "palavrasObrigatoriasTodas": ["honor", "magic", "7"],
+    "palavrasBloqueadas": ["lite", "v3", "v2", "6 pro", "capinha", "case", "película", "pelicula", "defeito", "quebrado", "trincado", "danificado"],
+    "maxPaginas": 1
   },
-
   {
-    "id": "switch-lite",
-    "nome": "Switch Lite até 700",
+    "id": "realme-buds-7",
+    "nome": "Realme Buds 7",
     "ativo": true,
-    "termoBusca": "switch lite",
-    "precoMinimo": 350,
-    "precoMaximo": 700,
-    "palavrasObrigatorias": [
-      "lite",
-      "switch lite"
-    ],
-    "scoreMinimo": 35
+    "termoBusca": "realme buds 7",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=realme%20buds%207",
+    "precoMinimo": 200,
+    "precoMaximo": 320,
+    "palavrasObrigatorias": ["realme", "buds"],
+    "palavrasObrigatoriasTodas": ["realme", "buds"],
+    "palavrasBloqueadas": ["conserto", "defeito", "lado esquerdo", "lado direito", "avulso"],
+    "maxPaginas": 1
   },
-
   {
-    "id": "3ds",
-    "nome": "Nintendo 3DS até 700",
+    "id": "anker-soundcore-life-4-nc",
+    "nome": "Anker Soundcore Life 4 NC",
     "ativo": true,
-    "termoBusca": "3ds",
+    "termoBusca": "anker soundcore life 4",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20soundcore%20life%204",
+    "precoMinimo": 200,
+    "precoMaximo": 280,
+    "palavrasObrigatorias": ["anker", "life"],
+    "palavrasObrigatoriasTodas": ["anker", "life"],
+    "palavrasBloqueadas": ["lado esquerdo", "lado direito", "avulso", "defeito", "caixa vazia", "golpe"],
+    "maxPaginas": 1
+  },
+  {
+    "id": "anker-soundcore-life-5",
+    "nome": "Anker Soundcore Life 5",
+    "ativo": true,
+    "termoBusca": "anker soundcore life 5",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20soundcore%20life%205",
+    "precoMinimo": 200,
+    "precoMaximo": 350,
+    "palavrasObrigatorias": ["anker", "life"],
+    "palavrasObrigatoriasTodas": ["anker", "life"],
+    "palavrasBloqueadas": ["lado esquerdo", "lado direito", "avulso", "defeito", "caixa vazia", "golpe"],
+    "maxPaginas": 1
+  },
+  {
+    "id": "audi-a3-sedan",
+    "nome": "Audi A3 Sedan (2017-2022)",
+    "ativo": true,
+    "termoBusca": "audi a3 sedan",
+    "urlBuscaOlx": "https://www.olx.com.br/autos-e-pecas/carros-vans-e-utilitarios/brasil?q=audi%20a3%20sedan",
+    "precoMinimo": 70000,
+    "precoMaximo": 160000,
+    "palavrasObrigatorias": ["sed", "a3"],
+    "palavrasObrigatoriasTodas": ["a3"],
+    "palavrasBloqueadas": ["2014", "2015", "2016", "leilão", "leilao", "recuperado", "sinistro", "sinistrado", "batido", "sucata", "peças", "pecas", "consórcio", "consorcio", "roda", "rodas", "farol", "faróis", "miniatura"],
+    "maxPaginas": 1,
+    "telegramChatId": "-5524154308"
+  },
+  {
+    "id": "jaqueta-north-face-olx",
+    "nome": "Jaqueta North Face Infantil 16 (OLX)",
+    "ativo": true,
+    "termoBusca": "jaqueta north face 16",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=jaqueta%20north%20face%2016",
     "precoMinimo": 150,
-    "precoMaximo": 700,
-    "palavrasObrigatorias": [
-      "3ds",
-      "new 3ds",
-      "nintendo 3ds",
-      "2ds"
-    ],
-    "scoreMinimo": 25
-  },
-
-  {
-    "id": "ds-lite",
-    "nome": "DS Lite até 350",
-    "ativo": true,
-    "termoBusca": "ds lite",
-    "precoMinimo": 80,
-    "precoMaximo": 350,
-    "palavrasObrigatorias": [
-      "ds lite",
-      "dslite",
-      "nintendo ds"
-    ],
-    "scoreMinimo": 20
-  },
-
-  {
-    "id": "gameboy",
-    "nome": "Game Boy até 700",
-    "ativo": true,
-    "termoBusca": "game boy",
-    "precoMinimo": 80,
-    "precoMaximo": 700,
-    "palavrasObrigatorias": [
-      "gameboy",
-      "game boy",
-      "game boy color",
-      "gameboy color",
-      "gba",
-      "game boy advance",
-      "gbc"
-    ],
-    "palavrasBloqueadas": [
-      "repro",
-      "reprodução",
-      "reproducao",
-      "bootleg",
-      "everdrive"
-    ],
-    "scoreMinimo": 25
-  },
-
-  {
-    "id": "pokemon-gba",
-    "nome": "Pokémon GBA original",
-    "ativo": true,
-    "termoBusca": "pokemon gba",
-    "precoMinimo": 20,
-    "precoMaximo": 150,
-    "palavrasObrigatorias": [
-      "pokemon",
-      "pokémon"
-    ],
-    "palavrasBloqueadas": [
-      "repro",
-      "reprodução",
-      "reproducao",
-      "bootleg",
-      "everdrive",
-      "r4"
-    ],
-    "scoreMinimo": 20
-  },
-
-  {
-    "id": "ps2-fat",
-    "nome": "PS2 Fat até 350",
-    "ativo": true,
-    "termoBusca": "ps2 fat",
-    "precoMinimo": 80,
-    "precoMaximo": 350,
-    "palavrasObrigatorias": [
-      "ps2",
-      "playstation 2",
-      "ps2 fat",
-      "fat",
-      "tijolao",
-      "tijolão"
-    ],
-    "palavrasBloqueadas": [
-      "slim"
-    ],
-    "scoreMinimo": 20
+    "precoMaximo": 400,
+    "palavrasObrigatorias": ["north", "face"],
+    "palavrasObrigatoriasTodas": ["north", "face"],
+    "palavrasBloqueadas": ["feminina", "feminino", "moça", "médio", "tamanho m", "tamanho g"],
+    "maxPaginas": 1
   }
 ]
