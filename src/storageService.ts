@@ -1,6 +1,6 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
-import { SentAd, StorageData } from "./types.js";
+import { ScoredAd, SentAd, StorageData } from "./types.js";
 import { logger } from "./logger.js";
 
 const storagePath = path.resolve("data", "sent-ads.json");
@@ -34,10 +34,14 @@ export async function saveSentAds(sentAds: Map<string, SentAd>) {
   await fs.writeFile(storagePath, `${JSON.stringify(data, null, 2)}\n`, "utf-8");
 }
 
-export function markAsSent(sentAds: Map<string, SentAd>, id: string, url: string) {
+export function markAsSent(sentAds: Map<string, SentAd>, id: string, url: string, ad?: ScoredAd) {
   sentAds.set(id, {
     id,
     url,
-    sentAt: new Date().toISOString()
+    sentAt: new Date().toISOString(),
+    title: ad?.titulo,
+    priceTexto: ad?.precoTexto || (ad?.preco ? ad.preco.toLocaleString("pt-BR", { style: "currency", currency: "BRL" }) : undefined),
+    score: ad?.score,
+    level: ad?.classificacao,
   });
 }

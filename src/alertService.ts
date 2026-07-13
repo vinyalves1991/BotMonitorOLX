@@ -162,7 +162,7 @@ export async function runAlerts(): Promise<RunStats> {
           await sendTelegramMessage(alert, scoredAd);
         }
 
-        markAsSent(sentAds, uniqueKey, ad.link);
+        markAsSent(sentAds, uniqueKey, ad.link, scoredAd);
         await saveSentAds(sentAds);
         sentForAlert += 1;
         stats.adsSent += 1;

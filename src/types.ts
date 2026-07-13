@@ -40,6 +40,10 @@ export type SentAd = {
   id: string;
   url: string;
   sentAt: string;
+  title?: string;
+  priceTexto?: string;
+  score?: number;
+  level?: OpportunityLevel;
 };
 
 export type StorageData = SentAd[];
