@@ -67,7 +67,7 @@
   <script>
     document.addEventListener('DOMContentLoaded', async () => {
       try {
-        // Tenta carregar o JSON (no github pages o arquivo estará em ./data/sent-ads.json)
+        // Tenta carregar o JSON do histórico salvo
         const response = await fetch('./data/sent-ads.json');
         if (!response.ok) {
           throw new Error('Falha ao carregar os dados');
