@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ps5-ate-2500",
+    "nome": "PS5 até 2500",
+    "ativo": true,
+    "termoBusca": "playstation 5",
+    "precoMinimo": 1400,
+    "precoMaximo": 2500,
+    "palavrasObrigatorias": [
+      "ps5",
+      "playstation 5",
+      "play 5"
+    ],
+    "palavrasBloqueadas": [
+      "vendo conta",
+      "conta psn",
+      "somente caixa",
+      "caixa vazia",
+      "somente controle",
+      "apenas controle",
+      "dualsense separado",
+      "conserto",
+      "assistencia",
+      "assistência",
+      "placa",
+      "carcaça"
+    ],
+    "scoreMinimo": 45
+  },
+
+  {
+    "id": "ps4-ate-900",
+    "nome": "PS4 até 900",
+    "ativo": true,
+    "termoBusca": "ps4",
+    "precoMinimo": 250,
+    "precoMaximo": 900,
+    "palavrasObrigatorias": [
+      "ps4",
+      "playstation 4",
+      "play 4"
+    ],
+    "palavrasBloqueadas": [
+      "vendo conta",
+      "conta psn",
+      "somente controle",
+      "apenas controle",
+      "somente caixa",
+      "caixa vazia",
+      "dualshock separado",
+      "placa",
+      "carcaça"
+    ],
+    "scoreMinimo": 35
+  },
+
+  {
+    "id": "switch-oled",
+    "nome": "Switch OLED até 1300",
+    "ativo": true,
+    "termoBusca": "switch oled",
+    "precoMinimo": 700,
+    "precoMaximo": 1300,
+    "palavrasObrigatorias": [
+      "oled"
+    ],
+    "palavrasObrigatoriasTodas": [
+      "switch"
+    ],
+    "palavrasBloqueadas": [
+      "lite",
+      "somente joycon",
+      "somente controle",
+      "dock separado"
+    ],
+    "scoreMinimo": 40
+  },
+
+  {
+    "id": "switch-normal",
+    "nome": "Switch normal até 1000",
+    "ativo": true,
+    "termoBusca": "nintendo switch",
+    "precoMinimo": 500,
+    "precoMaximo": 1000,
+    "palavrasObrigatorias": [
+      "switch",
+      "nintendo switch"
+    ],
+    "palavrasBloqueadas": [
+      "oled",
+      "lite",
+      "somente joycon",
+      "somente controle"
+    ],
+    "scoreMinimo": 35
+  },
+
+  {
+    "id": "switch-lite",
+    "nome": "Switch Lite até 700",
+    "ativo": true,
+    "termoBusca": "switch lite",
+    "precoMinimo": 350,
+    "precoMaximo": 700,
+    "palavrasObrigatorias": [
+      "lite",
+      "switch lite"
+    ],
+    "scoreMinimo": 35
+  },
+
+  {
+    "id": "3ds",
+    "nome": "Nintendo 3DS até 700",
+    "ativo": true,
+    "termoBusca": "3ds",
+    "precoMinimo": 150,
+    "precoMaximo": 700,
+    "palavrasObrigatorias": [
+      "3ds",
+      "new 3ds",
+      "nintendo 3ds",
+      "2ds"
+    ],
+    "scoreMinimo": 25
+  },
+
+  {
+    "id": "ds-lite",
+    "nome": "DS Lite até 350",
+    "ativo": true,
+    "termoBusca": "ds lite",
+    "precoMinimo": 80,
+    "precoMaximo": 350,
+    "palavrasObrigatorias": [
+      "ds lite",
+      "dslite",
+      "nintendo ds"
+    ],
+    "scoreMinimo": 20
+  },
+
+  {
+    "id": "gameboy",
+    "nome": "Game Boy até 700",
+    "ativo": true,
+    "termoBusca": "game boy",
+    "precoMinimo": 80,
+    "precoMaximo": 700,
+    "palavrasObrigatorias": [
+      "gameboy",
+      "game boy",
+      "game boy color",
+      "gameboy color",
+      "gba",
+      "game boy advance",
+      "gbc"
+    ],
+    "palavrasBloqueadas": [
+      "repro",
+      "reprodução",
+      "reproducao",
+      "bootleg",
+      "everdrive"
+    ],
+    "scoreMinimo": 25
+  },
+
+  {
+    "id": "pokemon-gba",
+    "nome": "Pokémon GBA original",
+    "ativo": true,
+    "termoBusca": "pokemon gba",
+    "precoMinimo": 20,
+    "precoMaximo": 150,
+    "palavrasObrigatorias": [
+      "pokemon",
+      "pokémon"
+    ],
+    "palavrasBloqueadas": [
+      "repro",
+      "reprodução",
+      "reproducao",
+      "bootleg",
+      "everdrive",
+      "r4"
+    ],
+    "scoreMinimo": 20
+  },
+
+  {
+    "id": "ps2-fat",
+    "nome": "PS2 Fat até 350",
+    "ativo": true,
+    "termoBusca": "ps2 fat",
+    "precoMinimo": 80,
+    "precoMaximo": 350,
+    "palavrasObrigatorias": [
+      "ps2",
+      "playstation 2",
+      "ps2 fat",
+      "fat",
+      "tijolao",
+      "tijolão"
+    ],
+    "palavrasBloqueadas": [
+      "slim"
+    ],
+    "scoreMinimo": 20
+  }
+]
