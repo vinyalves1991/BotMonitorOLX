@@ -66,6 +66,7 @@ jobs:
         run: |
           mkdir -p public/data
           cp data/sent-ads.json public/data/
+          touch public/.nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
