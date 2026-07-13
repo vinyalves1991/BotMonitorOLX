@@ -160,5 +160,32 @@
     "priceTexto": "R$ 93.890",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1517821366",
+    "url": "https://se.olx.com.br/sergipe/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sed-p-plus-1-4-25anos-flex-tfsi-tip-2019-1517821366",
+    "sentAt": "2026-07-13T20:14:51.148Z",
+    "title": "Audi A3 Sed. P.plus 1.4 25anos Flex TFSI Tip. 2019",
+    "priceTexto": "R$ 95.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1517805839",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1517805839",
+    "sentAt": "2026-07-13T20:14:52.548Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 109.900",
+    "score": 90,
+    "level": "alta"
+  },
+  {
+    "id": "1513108070",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-s-line-limited-1-4-tfsi-tiptro-2022-1513108070",
+    "sentAt": "2026-07-13T20:14:53.916Z",
+    "title": "Audi A3 Sedan S-line Limited 1.4 TFSI Tiptro 2022",
+    "priceTexto": "R$ 155.890",
+    "score": 65,
+    "level": "media"
   }
 ]
