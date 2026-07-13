@@ -289,7 +289,7 @@
       "quebrado"
     ],
     "maxPaginas": 1,
-    "whatsappPhone": "NUMERO_DO_SEU_AMIGO",
-    "whatsappApiKey": "API_KEY_DO_SEU_AMIGO"
+    "whatsappPhone": "WHATSAPP_PHONE_AMIGO",
+    "whatsappApiKey": "WHATSAPP_API_KEY_AMIGO"
   }
 ]

@@ -16,9 +16,14 @@ function formatPrice(ad: ScoredAd) {
   return "Preço não informado";
 }
 
+export function getWhatsappCredentials(alert: AlertConfig) {
+  const apiKey = alert.whatsappApiKey ? process.env[alert.whatsappApiKey] : process.env.CALLMEBOT_API_KEY;
+  const phone = alert.whatsappPhone ? process.env[alert.whatsappPhone] : (process.env.WHATSAPP_PHONE || process.env.CALLMEBOT_PHONE);
+  return { apiKey, phone };
+}
+
 export async function sendWhatsappMessage(alert: AlertConfig, ad: ScoredAd) {
-  const apiKey = alert.whatsappApiKey || process.env.CALLMEBOT_API_KEY;
-  const phone = alert.whatsappPhone || process.env.WHATSAPP_PHONE || process.env.CALLMEBOT_PHONE;
+  const { apiKey, phone } = getWhatsappCredentials(alert);
 
   if (!apiKey || !phone) {
     logger.error("API Key ou número de telefone do WhatsApp ausentes.");

@@ -44,6 +44,8 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           CALLMEBOT_API_KEY: ${{ secrets.CALLMEBOT_API_KEY }}
           WHATSAPP_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          WHATSAPP_API_KEY_AMIGO: ${{ secrets.WHATSAPP_API_KEY_AMIGO }}
+          WHATSAPP_PHONE_AMIGO: ${{ secrets.WHATSAPP_PHONE_AMIGO }}
         run: npm run start
 
       - name: Save sent ads history
