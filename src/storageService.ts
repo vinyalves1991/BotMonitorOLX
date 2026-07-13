@@ -35,13 +35,27 @@ export async function saveSentAds(sentAds: Map<string, SentAd>) {
 }
 
 export function markAsSent(sentAds: Map<string, SentAd>, id: string, url: string, ad?: ScoredAd) {
+  const existingAd = sentAds.get(id);
+  const newPriceTexto = ad?.precoTexto || (ad?.preco ? ad.preco.toLocaleString("pt-BR", { style: "currency", currency: "BRL" }) : undefined);
+
+  let history = existingAd?.history || [];
+
+  // Se for uma redução de preco e ja existir um preco anterior
+  if (ad?.isPriceDrop && ad?.oldPriceTexto) {
+      history.push({
+         priceTexto: ad.oldPriceTexto,
+         date: existingAd?.sentAt || new Date().toISOString()
+      });
+  }
+
   sentAds.set(id, {
     id,
     url,
     sentAt: new Date().toISOString(),
-    title: ad?.titulo,
-    priceTexto: ad?.precoTexto || (ad?.preco ? ad.preco.toLocaleString("pt-BR", { style: "currency", currency: "BRL" }) : undefined),
+    title: ad?.titulo || existingAd?.title,
+    priceTexto: newPriceTexto,
     score: ad?.score,
     level: ad?.classificacao,
+    history: history.length > 0 ? history : undefined
   });
 }

@@ -25,9 +25,12 @@ export async function sendWhatsappMessage(alert: AlertConfig, ad: ScoredAd) {
     return;
   }
 
+  const alertHeader = ad.isPriceDrop
+    ? `📉 *REDUÇÃO DE PREÇO!*\nDe ~${ad.oldPriceTexto || ""}~ para *${formatPrice(ad)}*\n`
+    : "🔴 *Novo anúncio encontrado!*\n";
+
   const rawMessage = [
-    "🔴 *Novo anúncio encontrado!*",
-    "",
+    alertHeader,
     `*${levelLabels[ad.classificacao]}*`,
     "",
     `🎯 *Alerta:* ${alert.nome}`,

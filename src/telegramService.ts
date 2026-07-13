@@ -37,9 +37,12 @@ export async function sendTelegramMessage(alert: AlertConfig, ad: ScoredAd) {
   const chatId = alert.telegramChatId || process.env.TELEGRAM_CHAT_ID;
   const url = `https://api.telegram.org/bot${token}/sendMessage`;
 
+  const alertHeader = ad.isPriceDrop
+    ? `📉 <b>REDUÇÃO DE PREÇO!</b>\nDe <s>${escapeHtml(ad.oldPriceTexto || "")}</s> para <b>${escapeHtml(formatPrice(ad))}</b>\n`
+    : "🔴 <b>Novo anúncio encontrado!</b>\n";
+
   const message = [
-    "🔴 <b>Novo anúncio encontrado!</b>",
-    "",
+    alertHeader,
     `<b>${levelLabels[ad.classificacao]}</b>`,
     "",
     `🎯 <b>Alerta:</b> ${escapeHtml(alert.nome)}`,

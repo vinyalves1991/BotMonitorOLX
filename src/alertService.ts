@@ -139,10 +139,29 @@ export async function runAlerts(): Promise<RunStats> {
         if (sentForAlert >= maxAdsForAlert) break;
 
         const uniqueKey = ad.id || ad.link;
-        const alreadySent = sentAds.has(uniqueKey) || [...sentAds.values()].some((item) => item.url === ad.link);
-        if (alreadySent) {
-          stats.adsSkipped += 1;
-          continue;
+        let existingAd = sentAds.get(uniqueKey) || [...sentAds.values()].find((item) => item.url === ad.link);
+
+        let isPriceDrop = false;
+        let oldPriceTexto = undefined;
+
+        if (existingAd) {
+          // Extrair o preco atual e comparar
+          const currentPrice = ad.preco || 0;
+
+          let oldPrice = 0;
+          if (existingAd.priceTexto) {
+             const cleanString = existingAd.priceTexto.replace(/[^0-9,]/g, '').replace(',', '.');
+             oldPrice = parseFloat(cleanString);
+          }
+
+          if (currentPrice > 0 && oldPrice > 0 && currentPrice < oldPrice) {
+            isPriceDrop = true;
+            oldPriceTexto = existingAd.priceTexto;
+            logger.info(`Redução de preço detectada no anuncio "${ad.titulo}": de ${oldPriceTexto} para ${ad.precoTexto}`);
+          } else {
+            stats.adsSkipped += 1;
+            continue;
+          }
         }
 
         const filter = shouldKeepAd(alert, ad);
@@ -153,6 +172,10 @@ export async function runAlerts(): Promise<RunStats> {
         }
 
         const scoredAd = scoreAd(alert, ad);
+        if (isPriceDrop) {
+          scoredAd.isPriceDrop = true;
+          scoredAd.oldPriceTexto = oldPriceTexto;
+        }
         if (typeof alert.scoreMinimo === "number" && scoredAd.score < alert.scoreMinimo) {
           stats.adsSkipped += 1;
           logger.info(`Ignorando anuncio "${ad.titulo}": score ${scoredAd.score} abaixo do minimo.`);
