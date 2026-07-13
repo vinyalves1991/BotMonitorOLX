@@ -18,7 +18,7 @@ function formatPrice(ad: ScoredAd) {
 
 export async function sendWhatsappMessage(alert: AlertConfig, ad: ScoredAd) {
   const apiKey = process.env.CALLMEBOT_API_KEY;
-  const phone = alert.whatsappPhone || process.env.WHATSAPP_PHONE;
+  const phone = alert.whatsappPhone || process.env.WHATSAPP_PHONE || process.env.CALLMEBOT_PHONE;
 
   if (!apiKey || !phone) {
     logger.error("API Key ou número de telefone do WhatsApp ausentes.");
