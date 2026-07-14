@@ -268,5 +268,41 @@
     "priceTexto": "R$ 93.000",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1497912176",
+    "url": "https://mt.olx.com.br/regiao-de-cuiaba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1497912176",
+    "sentAt": "2026-07-14T03:55:14.764Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 78.500",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1488043739",
+    "url": "https://sc.olx.com.br/florianopolis-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1488043739",
+    "sentAt": "2026-07-14T03:55:16.106Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 107.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1517903714",
+    "url": "https://pr.olx.com.br/regiao-de-maringa/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sed-p-plus-1-4-25anos-flex-tfsi-tip-2019-1517903714",
+    "sentAt": "2026-07-14T03:55:17.440Z",
+    "title": "Audi A3 Sed. P.plus 1.4 25anos Flex TFSI Tip. 2019",
+    "priceTexto": "R$ 126.500",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1517896719",
+    "url": "https://sc.olx.com.br/florianopolis-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sed-ambition-2-0-tsfi-220cv-s-tronic-2017-1517896719",
+    "sentAt": "2026-07-14T03:55:18.774Z",
+    "title": "Audi A3 Sed. Ambition 2.0 Tsfi 220cv S-tronic 2017",
+    "priceTexto": "R$ 127.500",
+    "score": 75,
+    "level": "alta"
   }
 ]
