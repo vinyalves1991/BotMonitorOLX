@@ -153,11 +153,11 @@
     "precoMaximo": 280,
     "palavrasObrigatorias": [
       "anker",
-      "life"
+      "life 4"
     ],
     "palavrasObrigatoriasTodas": [
       "anker",
-      "life"
+      "life 4"
     ],
     "palavrasBloqueadas": [
       "lado esquerdo",
@@ -179,11 +179,11 @@
     "precoMaximo": 350,
     "palavrasObrigatorias": [
       "anker",
-      "life"
+      "life 5"
     ],
     "palavrasObrigatoriasTodas": [
       "anker",
-      "life"
+      "life 5"
     ],
     "palavrasBloqueadas": [
       "lado esquerdo",
@@ -281,6 +281,7 @@
       "só o case",
       "so o case",
       "case vazio",
+      "somente os fones",
       "defeito",
       "quebrado"
     ],
