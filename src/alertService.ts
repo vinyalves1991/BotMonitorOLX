@@ -31,7 +31,6 @@ function withAlertDefaults(alert: AlertConfig): AlertConfig {
     palavrasObrigatorias: alert.palavrasObrigatorias ?? [alert.termoBusca],
     palavrasBloqueadas: alert.palavrasBloqueadas ?? [],
     maxPaginas: alert.maxPaginas ?? 2,
-    ordenarPorRecentes: alert.ordenarPorRecentes ?? true,
     quantidadeMaximaPorExecucao: alert.quantidadeMaximaPorExecucao ?? defaultMaxAdsPerRun,
     enviarTelegram: alert.enviarTelegram ?? true
   };
@@ -44,17 +43,17 @@ function buildSearchPageUrls(alert: AlertConfig) {
   for (let page = 1; page <= maxPages; page += 1) {
     const url = new URL(alert.urlBuscaOlx ?? defaultOlxUrl(alert));
 
-    if (alert.ordenarPorRecentes !== false) {
-      url.searchParams.set("sf", "1");
-    }
-
     if (page > 1) {
       url.searchParams.set("o", String(page));
     } else {
       url.searchParams.delete("o");
     }
 
-    urls.push(url.toString());
+    // Convert '+' to '%20' in the final string representation
+    let urlString = url.toString();
+    urlString = urlString.replace(/\+/g, '%20');
+
+    urls.push(urlString);
   }
 
   return urls;

@@ -12,7 +12,6 @@ export type AlertConfig = {
   categorias?: string[];
   scoreMinimo?: number;
   maxPaginas?: number;
-  ordenarPorRecentes?: boolean;
   quantidadeMaximaPorExecucao?: number;
   enviarTelegram?: boolean;
   telegramChatId?: string | number;

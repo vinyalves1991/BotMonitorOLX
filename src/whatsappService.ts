@@ -47,12 +47,14 @@ export async function sendWhatsappMessage(alert: AlertConfig, ad: ScoredAd) {
   ].join("\n");
 
   const message = encodeURIComponent(rawMessage);
-  const url = `https://api.callmebot.com/whatsapp.php?phone=${phone}&text=${message}&apikey=${apiKey}`;
+  const encodedPhone = encodeURIComponent(phone);
+  const encodedApiKey = encodeURIComponent(apiKey);
+  const url = `https://api.callmebot.com/whatsapp.php?phone=${encodedPhone}&text=${message}&apikey=${encodedApiKey}`;
 
   try {
     await axios.get(url, { timeout: 15000 });
     logger.info(`Mensagem enviada com sucesso pelo WhatsApp para o número ${phone}.`);
-  } catch (error) {
-    logger.error("Erro ao enviar mensagem pelo WhatsApp:", error);
+  } catch (error: any) {
+    logger.error("Erro ao enviar mensagem pelo WhatsApp:", error?.response?.data || error.message);
   }
 }
