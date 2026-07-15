@@ -4,7 +4,7 @@
     "nome": "Oppo Find x9 Pro",
     "ativo": true,
     "termoBusca": "oppo find x9 pro",
-    "urlBuscaOlx": "https://www.olx.com.br/?q=oppo%20find%20x9%20pro",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=oppo%20find%20x9%20pro",
     "precoMinimo": 4000,
     "precoMaximo": 5600,
     "palavrasObrigatorias": [
@@ -30,9 +30,9 @@
     "nome": "Vivo x300 Pro Global",
     "ativo": true,
     "termoBusca": "vivo x300 pro",
-    "urlBuscaOlx": "https://www.olx.com.br/?q=vivo%20x300%20pro",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=vivo%20x300%20pro%20global",
     "precoMinimo": 4000,
-    "precoMaximo": 5600,
+    "precoMaximo": 6500,
     "palavrasObrigatorias": [
       "vivo",
       "x300"
@@ -61,9 +61,9 @@
     "nome": "Vivo x200 Pro Global",
     "ativo": true,
     "termoBusca": "vivo x200 pro",
-    "urlBuscaOlx": "https://www.olx.com.br/?q=vivo%20x200%20pro",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=vivo%20x200%20pro%20global",
     "precoMinimo": 3500,
-    "precoMaximo": 5000,
+    "precoMaximo": 5500,
     "palavrasObrigatorias": [
       "vivo",
       "x200"
@@ -93,7 +93,7 @@
     "nome": "Honor Magic 7 Pro",
     "ativo": true,
     "termoBusca": "honor magic 7 pro",
-    "urlBuscaOlx": "https://www.olx.com.br/?q=honor%20magic%207%20pro",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=honor%20magic%207%20pro",
     "precoMinimo": 2500,
     "precoMaximo": 4100,
     "palavrasObrigatorias": [
@@ -127,7 +127,7 @@
     "nome": "Realme Buds 7",
     "ativo": true,
     "termoBusca": "realme buds 7",
-    "urlBuscaOlx": "https://www.olx.com.br/?q=realme%20buds%207",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=realme%20buds%207",
     "precoMinimo": 200,
     "precoMaximo": 320,
     "palavrasObrigatorias": [
@@ -152,7 +152,7 @@
     "nome": "Anker Soundcore Life 4 NC",
     "ativo": true,
     "termoBusca": "anker soundcore life 4",
-    "urlBuscaOlx": "https://www.olx.com.br/?q=anker%20soundcore%20life%204",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20soundcore%20life%204",
     "precoMinimo": 200,
     "precoMaximo": 280,
     "palavrasObrigatorias": [
@@ -178,7 +178,7 @@
     "nome": "Anker Soundcore Life 5",
     "ativo": true,
     "termoBusca": "anker soundcore life 5",
-    "urlBuscaOlx": "https://www.olx.com.br/?q=anker%20soundcore%20life%205",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20soundcore%20life%205",
     "precoMinimo": 200,
     "precoMaximo": 350,
     "palavrasObrigatorias": [
@@ -243,7 +243,7 @@
     "nome": "Jaqueta North Face Infantil 16 (OLX)",
     "ativo": true,
     "termoBusca": "jaqueta north face 16",
-    "urlBuscaOlx": "https://www.olx.com.br/?q=jaqueta%20north%20face%2016",
+    "urlBuscaOlx": "https://www.olx.com.br/estado-sp?q=jaqueta%20north%20face%2016",
     "precoMinimo": 150,
     "precoMaximo": 400,
     "palavrasObrigatorias": [
@@ -265,13 +265,13 @@
     "maxPaginas": 1
   },
   {
-    "id": "anker-x10",
-    "nome": "Anker x10",
+    "id": "anker-x20",
+    "nome": "Anker x20",
     "ativo": true,
     "termoBusca": "anker x10",
-    "urlBuscaOlx": "https://www.olx.com.br/?q=anker%20x10",
+    "urlBuscaOlx": "Anker x20",
     "precoMinimo": 100,
-    "precoMaximo": 250,
+    "precoMaximo": 350,
     "palavrasObrigatorias": [
       "anker",
       "x10"
