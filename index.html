@@ -137,11 +137,26 @@
           if (ad.history && ad.history.length > 0) {
              const oldest = ad.history[0];
              const oldDate = new Date(oldest.date).toLocaleDateString('pt-BR');
+
+             // Calculate price variation if both are valid numbers
+             let variationHtml = '';
+             try {
+                const oldPriceNum = parseFloat(oldest.priceTexto.replace(/[^0-9,]/g, '').replace(',', '.'));
+                const newPriceNum = parseFloat((ad.priceTexto || '').replace(/[^0-9,]/g, '').replace(',', '.'));
+
+                if (oldPriceNum > 0 && newPriceNum > 0 && newPriceNum < oldPriceNum) {
+                   const dropPercent = Math.round(((oldPriceNum - newPriceNum) / oldPriceNum) * 100);
+                   variationHtml = `<span class="ml-2 inline-flex items-center px-2 py-0.5 rounded text-xs font-bold bg-green-100 text-green-800 border border-green-200">-${dropPercent}%</span>`;
+                }
+             } catch (e) {
+                // Ignore parse errors
+             }
+
              priceHistoryHtml = `
                <div class="mt-3 bg-red-50 border border-red-100 p-3 rounded-lg text-sm">
                  <div class="text-red-700 font-bold mb-1 flex items-center">
                    <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6"></path></svg>
-                   Redução de Preço!
+                   Redução de Preço! ${variationHtml}
                  </div>
                  <div class="flex justify-between items-center">
                    <div class="text-gray-500 line-through">${oldest.priceTexto} <span class="text-xs">(${oldDate})</span></div>
