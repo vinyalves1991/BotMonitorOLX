@@ -1,1 +1,47 @@
-
+[
+  {
+    "id": "1487533395",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sed-ambition-2-0-tsfi-220cv-s-tronic-2017-1487533395",
+    "sentAt": "2026-07-15T04:26:44.861Z",
+    "title": "Audi A3 Sed. Ambition 2.0 Tsfi 220cv S-tronic 2017",
+    "priceTexto": "R$ 154.900",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1518020302",
+    "url": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sed-ambition-2-0-tsfi-220cv-s-tronic-2018-1518020302",
+    "sentAt": "2026-07-15T04:26:46.360Z",
+    "title": "Audi A3 Sed. Ambition 2.0 Tsfi 220cv S-tronic 2018",
+    "priceTexto": "R$ 119.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1518187915",
+    "url": "https://al.olx.com.br/alagoas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2021-1518187915",
+    "sentAt": "2026-07-15T04:26:47.856Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2021",
+    "priceTexto": "R$ 140.000",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1500758368",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1500758368",
+    "sentAt": "2026-07-15T04:26:49.356Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 93.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1518182025",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1518182025",
+    "sentAt": "2026-07-15T04:26:50.816Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 92.900",
+    "score": 87,
+    "level": "alta"
+  }
+]
