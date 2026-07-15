@@ -8,7 +8,7 @@
     "precoMinimo": 4000,
     "precoMaximo": 5600,
     "palavrasObrigatorias": [
-      "oppo"
+      "x9"
     ],
     "palavrasBloqueadas": [
       "carcaça",
@@ -34,11 +34,9 @@
     "precoMinimo": 4000,
     "precoMaximo": 6500,
     "palavrasObrigatorias": [
-      "vivo",
       "x300"
     ],
     "palavrasObrigatoriasTodas": [
-      "vivo",
       "x300"
     ],
     "palavrasBloqueadas": [
@@ -65,11 +63,9 @@
     "precoMinimo": 3500,
     "precoMaximo": 5500,
     "palavrasObrigatorias": [
-      "vivo",
       "x200"
     ],
     "palavrasObrigatoriasTodas": [
-      "vivo",
       "x200"
     ],
     "palavrasBloqueadas": [
