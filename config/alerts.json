@@ -269,7 +269,7 @@
     "nome": "Anker x20",
     "ativo": true,
     "termoBusca": "anker x10",
-    "urlBuscaOlx": "Anker x20",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20x20",
     "precoMinimo": 100,
     "precoMaximo": 350,
     "palavrasObrigatorias": [
