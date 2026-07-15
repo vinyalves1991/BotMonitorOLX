@@ -1,5 +1,6 @@
 import axios from "axios";
 import { AlertConfig, ScoredAd } from "./types.js";
+import { logger } from "./logger.js";
 
 const levelLabels = {
   alta: "🔥 Oportunidade alta",
@@ -53,14 +54,18 @@ export async function sendTelegramMessage(alert: AlertConfig, ad: ScoredAd) {
     `🔗 <b>Link:</b> ${escapeHtml(ad.link)}`
   ].join("\n");
 
-  await axios.post(
-    url,
-    {
-      chat_id: chatId,
-      text: message,
-      parse_mode: "HTML",
-      disable_web_page_preview: false
-    },
-    { timeout: 15000 }
-  );
+  try {
+    await axios.post(
+      url,
+      {
+        chat_id: chatId,
+        text: message,
+        parse_mode: "HTML",
+        disable_web_page_preview: false
+      },
+      { timeout: 15000 }
+    );
+  } catch (error: any) {
+    logger.error("Erro ao enviar mensagem pelo Telegram:", error?.response?.data || error.message);
+  }
 }
