@@ -277,5 +277,23 @@
     "priceTexto": "R$ 94.160",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1518242206",
+    "url": "https://pb.olx.com.br/paraiba/celulares/oppo-find-x9-pro-1518242206",
+    "sentAt": "2026-07-15T14:45:19.133Z",
+    "title": "OPPO FIND X9 PRO",
+    "priceTexto": "R$ 5.500",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1518298981",
+    "url": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/roupas/jaqueta-the-north-face-com-ziper-1518298981",
+    "sentAt": "2026-07-15T14:46:27.581Z",
+    "title": "Jaqueta the north face com ziper",
+    "priceTexto": "R$ 350",
+    "score": 65,
+    "level": "media"
   }
 ]
