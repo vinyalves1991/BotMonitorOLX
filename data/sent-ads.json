@@ -349,5 +349,50 @@
     "priceTexto": "R$ 119.000",
     "score": 75,
     "level": "alta"
+  },
+  {
+    "id": "1518553676",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1518553676",
+    "sentAt": "2026-07-16T14:06:35.281Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 80.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1511757032",
+    "url": "https://sc.olx.com.br/florianopolis-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1511757032",
+    "sentAt": "2026-07-16T14:06:36.774Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 113.999",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1518535487",
+    "url": "https://sp.olx.com.br/regiao-de-ribeirao-preto/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1518535487",
+    "sentAt": "2026-07-16T14:06:38.266Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 89.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1518532348",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1518532348",
+    "sentAt": "2026-07-16T14:06:39.746Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 102.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1507185466",
+    "url": "https://ce.olx.com.br/fortaleza-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2020-1507185466",
+    "sentAt": "2026-07-16T14:06:41.242Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 127.997",
+    "score": 75,
+    "level": "alta"
   }
 ]
