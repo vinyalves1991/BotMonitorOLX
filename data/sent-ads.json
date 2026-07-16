@@ -484,5 +484,23 @@
     "priceTexto": "R$ 110.000",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1518647005",
+    "url": "https://ba.olx.com.br/grande-salvador/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2020-1518647005",
+    "sentAt": "2026-07-16T20:00:40.366Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 119.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1518644110",
+    "url": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2020-1518644110",
+    "sentAt": "2026-07-16T20:00:41.712Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 120.000",
+    "score": 75,
+    "level": "alta"
   }
 ]
