@@ -799,5 +799,32 @@
     "priceTexto": "R$ 91.900",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1519149656",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1519149656",
+    "sentAt": "2026-07-18T20:04:53.709Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 114.990",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1519149099",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1519149099",
+    "sentAt": "2026-07-18T20:04:55.125Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 84.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1519067666",
+    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1519067666",
+    "sentAt": "2026-07-18T20:04:56.541Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 92.500",
+    "score": 87,
+    "level": "alta"
   }
 ]
