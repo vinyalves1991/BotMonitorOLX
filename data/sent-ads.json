@@ -214,5 +214,50 @@
     "priceTexto": "R$ 115.900",
     "score": 75,
     "level": "alta"
+  },
+  {
+    "id": "1519560265",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1519560265",
+    "sentAt": "2026-07-20T21:01:54.999Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 109.898",
+    "score": 90,
+    "level": "alta"
+  },
+  {
+    "id": "1519556293",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1519556293",
+    "sentAt": "2026-07-20T21:01:56.356Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 99.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1519430046",
+    "url": "https://al.olx.com.br/alagoas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2021-1519430046",
+    "sentAt": "2026-07-20T21:01:57.696Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2021",
+    "priceTexto": "R$ 135.000",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1519410205",
+    "url": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1519410205",
+    "sentAt": "2026-07-20T21:01:59.036Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 81.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1518949848",
+    "url": "https://sp.olx.com.br/regiao-de-sorocaba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1518949848",
+    "sentAt": "2026-07-20T21:02:00.448Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 97.900",
+    "score": 87,
+    "level": "alta"
   }
 ]
