@@ -88,5 +88,41 @@
     "priceTexto": "R$ 170",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1519480894",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/oppo-find-x9-pro-512gb-global-lacrado-1519480894",
+    "sentAt": "2026-07-20T17:22:07.269Z",
+    "title": "Oppo Find X9 Pro 512GB Global Lacrado",
+    "priceTexto": "R$ 5.500",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1518946219",
+    "url": "https://pe.olx.com.br/grande-recife/celulares/oppo-find-x9-pro-16gb-512gb-5g-branco-1518946219",
+    "sentAt": "2026-07-20T17:22:08.728Z",
+    "title": "Oppo Find X9 Pro 16GB + 512GB 5G Branco",
+    "priceTexto": "R$ 5.600",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1515759458",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/oppo-find-x9-pro-512gb-global-lacrado-1515759458",
+    "sentAt": "2026-07-20T17:22:10.176Z",
+    "title": "Oppo Find X9 Pro 512GB Global Lacrado",
+    "priceTexto": "R$ 5.500",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1517920140",
+    "url": "https://ro.olx.com.br/rondonia/audio/fones-de-ouvido/fone-bluetooth-realme-buds-t200-1517920140",
+    "sentAt": "2026-07-20T17:22:46.886Z",
+    "title": "Fone Bluetooth realme Buds T200 ?",
+    "priceTexto": "R$ 200",
+    "score": 79,
+    "level": "alta"
   }
 ]
