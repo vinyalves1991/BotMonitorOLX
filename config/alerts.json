@@ -144,11 +144,11 @@
     "maxPaginas": 1
   },
   {
-    "id": "anker-soundcore-life-4-nc",
+    "id": "anker-soundcore-liberty-4-nc",
     "nome": "Anker Soundcore Liberty 4 NC",
     "ativo": true,
     "termoBusca": "anker soundcore liberty 4",
-    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20soundcore%20life%204",
+    "urlBuscaOlx": "https://www.olx.com.br/brasil?q=anker%20soundcore%20liberty%204",
     "precoMinimo": 200,
     "precoMaximo": 280,
     "palavrasObrigatorias": [
