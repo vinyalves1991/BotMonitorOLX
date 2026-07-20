@@ -124,5 +124,95 @@
     "priceTexto": "R$ 200",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1517661333",
+    "url": "https://se.olx.com.br/sergipe/celulares/vivo-x200-pro-16gb-512gb-camera-zeiss-200-mp-1517661333",
+    "sentAt": "2026-07-20T19:25:14.314Z",
+    "title": "Vivo X200 Pro 16GB/512GB ? câmera ZEISS 200 MP",
+    "priceTexto": "R$ 4.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1514644825",
+    "url": "https://to.olx.com.br/tocantins/celulares/vivo-x200-pro-mini-256gb-1514644825",
+    "sentAt": "2026-07-20T19:25:15.841Z",
+    "title": "Vivo X200 PRO MINI - 256GB",
+    "priceTexto": "R$ 4.700",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1516405433",
+    "url": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/celulares/vivo-x200-pro-1516405433",
+    "sentAt": "2026-07-20T19:25:17.448Z",
+    "title": "vivo x200 pro",
+    "priceTexto": "R$ 5.500",
+    "score": 60,
+    "level": "media"
+  },
+  {
+    "id": "1517928978",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/celulares/vivo-x200-pro-1517928978",
+    "sentAt": "2026-07-20T19:25:18.935Z",
+    "title": "Vivo X200 pro",
+    "priceTexto": "R$ 5.300",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1517912188",
+    "url": "https://sp.olx.com.br/grande-campinas/celulares/vivo-x200-pro-16-512-1517912188",
+    "sentAt": "2026-07-20T19:25:20.419Z",
+    "title": "Vivo x200 pro 16/512",
+    "priceTexto": "R$ 5.400",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1519535819",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1519535819",
+    "sentAt": "2026-07-20T19:26:05.320Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 90.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1519523358",
+    "url": "https://pe.olx.com.br/grande-recife/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2019-1519523358",
+    "sentAt": "2026-07-20T19:26:06.761Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2019",
+    "priceTexto": "R$ 129.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1519485223",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2020-1519485223",
+    "sentAt": "2026-07-20T19:26:08.205Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2020",
+    "priceTexto": "R$ 125.900",
+    "score": 78,
+    "level": "alta"
+  },
+  {
+    "id": "1519483383",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1519483383",
+    "sentAt": "2026-07-20T19:26:09.676Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 104.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1500499499",
+    "url": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2020-1500499499",
+    "sentAt": "2026-07-20T19:26:11.198Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 115.900",
+    "score": 75,
+    "level": "alta"
   }
 ]
