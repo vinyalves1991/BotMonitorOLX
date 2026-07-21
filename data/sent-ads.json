@@ -268,5 +268,32 @@
     "priceTexto": "R$ 5.600",
     "score": 65,
     "level": "media"
+  },
+  {
+    "id": "1519614229",
+    "url": "https://to.olx.com.br/tocantins/celulares/vivo-x200-pro-mini-1519614229",
+    "sentAt": "2026-07-21T04:59:20.411Z",
+    "title": "VIVO X200 PRO MINI",
+    "priceTexto": "R$ 4.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1519410912",
+    "url": "https://ba.olx.com.br/grande-salvador/audio/fones-de-ouvido/anker-soundcore-liberty-4-nc-na-cor-branca-1519410912",
+    "sentAt": "2026-07-21T04:59:48.545Z",
+    "title": "Anker Soundcore Liberty 4 NC na cor Branca,",
+    "priceTexto": "R$ 270",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1519670434",
+    "url": "https://ce.olx.com.br/fortaleza-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1519670434",
+    "sentAt": "2026-07-21T05:00:10.418Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 78.000",
+    "score": 87,
+    "level": "alta"
   }
 ]
