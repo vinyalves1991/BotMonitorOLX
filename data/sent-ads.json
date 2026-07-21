@@ -189,15 +189,6 @@
     "level": "alta"
   },
   {
-    "id": "1519485223",
-    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2020-1519485223",
-    "sentAt": "2026-07-20T19:26:08.205Z",
-    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2020",
-    "priceTexto": "R$ 125.900",
-    "score": 78,
-    "level": "alta"
-  },
-  {
     "id": "1519483383",
     "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1519483383",
     "sentAt": "2026-07-20T19:26:09.676Z",
@@ -295,5 +286,47 @@
     "priceTexto": "R$ 78.000",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1519790662",
+    "url": "https://sp.olx.com.br/regiao-de-sorocaba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1519790662",
+    "sentAt": "2026-07-21T14:56:41.864Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 85.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1519787516",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1519787516",
+    "sentAt": "2026-07-21T14:56:43.336Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 107.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1519772530",
+    "url": "https://es.olx.com.br/norte-do-espirito-santo/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1519772530",
+    "sentAt": "2026-07-21T14:56:44.815Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 109.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1519485223",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2020-1519485223",
+    "sentAt": "2026-07-21T14:56:46.296Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2020",
+    "priceTexto": "R$ 123.900",
+    "score": 70,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 125.900",
+        "date": "2026-07-20T19:26:08.205Z"
+      }
+    ]
   }
 ]
