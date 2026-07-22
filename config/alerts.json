@@ -232,6 +232,8 @@
       "miniatura"
     ],
     "maxPaginas": 1,
+    "whatsappPhone": "WHATSAPP_PHONE_AMIGO1",
+    "whatsappApiKey": "WHATSAPP_API_KEY_AMIGO1",
     "telegramChatId": "-5524154308"
   },
   {
