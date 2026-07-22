@@ -478,5 +478,59 @@
     "priceTexto": "R$ 115.900",
     "score": 75,
     "level": "alta"
+  },
+  {
+    "id": "1490037516",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1490037516",
+    "sentAt": "2026-07-22T21:57:58.053Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 99.700",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1506307694",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1506307694",
+    "sentAt": "2026-07-22T21:57:59.292Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 122.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1517828962",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2019-1517828962",
+    "sentAt": "2026-07-22T21:58:00.516Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2019",
+    "priceTexto": "R$ 155.000",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1520280691",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1520280691",
+    "sentAt": "2026-07-22T21:58:01.740Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 87.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1520241298",
+    "url": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1520241298",
+    "sentAt": "2026-07-22T21:58:02.965Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 119.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1520252629",
+    "url": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/audio/fones-de-ouvido/fone-anker-soundcore-sport-x20-completo-na-caixa-funcionando-100-fone-para-academia-1520252629",
+    "sentAt": "2026-07-22T21:58:22.751Z",
+    "title": "Fone Anker Soundcore Sport X20 - Completo na Caixa - Funcionando 100% - Fone para academia",
+    "priceTexto": "R$ 350",
+    "score": 65,
+    "level": "media"
   }
 ]
