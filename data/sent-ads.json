@@ -261,15 +261,6 @@
     "level": "media"
   },
   {
-    "id": "1519410912",
-    "url": "https://ba.olx.com.br/grande-salvador/audio/fones-de-ouvido/anker-soundcore-liberty-4-nc-na-cor-branca-1519410912",
-    "sentAt": "2026-07-21T04:59:48.545Z",
-    "title": "Anker Soundcore Liberty 4 NC na cor Branca,",
-    "priceTexto": "R$ 270",
-    "score": 57,
-    "level": "media"
-  },
-  {
     "id": "1519670434",
     "url": "https://ce.olx.com.br/fortaleza-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1519670434",
     "sentAt": "2026-07-21T05:00:10.418Z",
@@ -604,5 +595,65 @@
     "priceTexto": "R$ 350",
     "score": 57,
     "level": "media"
+  },
+  {
+    "id": "1519410912",
+    "url": "https://ba.olx.com.br/grande-salvador/audio/fones-de-ouvido/anker-soundcore-liberty-4-nc-na-cor-branca-1519410912",
+    "sentAt": "2026-07-23T06:24:30.782Z",
+    "title": "Anker Soundcore Liberty 4 NC na cor Branca,",
+    "priceTexto": "R$ 250",
+    "score": 57,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 270",
+        "date": "2026-07-21T04:59:48.545Z"
+      }
+    ]
+  },
+  {
+    "id": "1520356077",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1520356077",
+    "sentAt": "2026-07-23T06:24:49.073Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 102.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1488043739",
+    "url": "https://sc.olx.com.br/florianopolis-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1488043739",
+    "sentAt": "2026-07-23T06:24:50.300Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 107.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1518140950",
+    "url": "https://se.olx.com.br/sergipe/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1518140950",
+    "sentAt": "2026-07-23T06:24:51.529Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 107.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1518721256",
+    "url": "https://sp.olx.com.br/regiao-de-ribeirao-preto/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1518721256",
+    "sentAt": "2026-07-23T06:24:52.758Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 109.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1517758026",
+    "url": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1517758026",
+    "sentAt": "2026-07-23T06:24:53.990Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 110.000",
+    "score": 79,
+    "level": "alta"
   }
 ]
