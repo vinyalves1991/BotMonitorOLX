@@ -718,5 +718,59 @@
     "priceTexto": "R$ 89.500",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1520554191",
+    "url": "https://mt.olx.com.br/regiao-de-cuiaba/celulares/oppo-find-x9-global-12-512-gb-1520554191",
+    "sentAt": "2026-07-24T16:18:24.220Z",
+    "title": "OPPO FIND X9 GLOBAL 12/512 GB",
+    "priceTexto": "R$ 5.000",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1520750961",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2020-1520750961",
+    "sentAt": "2026-07-24T16:19:27.253Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 123.890",
+    "score": 78,
+    "level": "alta"
+  },
+  {
+    "id": "1520741724",
+    "url": "https://se.olx.com.br/sergipe/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1520741724",
+    "sentAt": "2026-07-24T16:19:28.545Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 110.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1520734726",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1520734726",
+    "sentAt": "2026-07-24T16:19:29.837Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 105.000",
+    "score": 90,
+    "level": "alta"
+  },
+  {
+    "id": "1520630870",
+    "url": "https://pr.olx.com.br/regiao-de-maringa/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1520630870",
+    "sentAt": "2026-07-24T16:19:31.126Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 99.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1520542407",
+    "url": "https://sc.olx.com.br/florianopolis-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1520542407",
+    "sentAt": "2026-07-24T16:19:32.416Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 80.000",
+    "score": 79,
+    "level": "alta"
   }
 ]
