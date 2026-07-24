@@ -772,5 +772,32 @@
     "priceTexto": "R$ 80.000",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1445233073",
+    "url": "https://sc.olx.com.br/florianopolis-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1445233073",
+    "sentAt": "2026-07-24T18:12:14.298Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 104.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1520474475",
+    "url": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1520474475",
+    "sentAt": "2026-07-24T18:12:15.588Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 98.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1520443816",
+    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1520443816",
+    "sentAt": "2026-07-24T18:12:16.870Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 81.900",
+    "score": 79,
+    "level": "alta"
   }
 ]
