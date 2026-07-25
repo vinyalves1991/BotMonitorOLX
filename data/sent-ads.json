@@ -808,5 +808,23 @@
     "priceTexto": "R$ 97.900",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1521006370",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-jovi-x300-pro-seminovo-1521006370",
+    "sentAt": "2026-07-25T18:52:30.479Z",
+    "title": "Vivo/Jovi X300 Pro seminovo!",
+    "priceTexto": "R$ 5.899",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1521007246",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/vivo-x200-pro-1521007246",
+    "sentAt": "2026-07-25T18:52:40.658Z",
+    "title": "Vivo X200 Pro",
+    "priceTexto": "R$ 5.500",
+    "score": 65,
+    "level": "media"
   }
 ]
