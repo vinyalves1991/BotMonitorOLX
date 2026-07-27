@@ -925,5 +925,23 @@
     "priceTexto": "R$ 108.000",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1521178567",
+    "url": "https://sp.olx.com.br/regiao-de-sorocaba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1521178567",
+    "sentAt": "2026-07-27T09:30:33.679Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 87.000",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1521177027",
+    "url": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1521177027",
+    "sentAt": "2026-07-27T09:30:34.904Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 90.000",
+    "score": 79,
+    "level": "alta"
   }
 ]
