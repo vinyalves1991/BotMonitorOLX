@@ -952,5 +952,32 @@
     "priceTexto": "R$ 157.610",
     "score": 65,
     "level": "media"
+  },
+  {
+    "id": "1521469700",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-jovi-x300-pro-seminovo-2-melhor-camera-do-mundo-1521469700",
+    "sentAt": "2026-07-27T19:11:50.898Z",
+    "title": "Vivo/Jovi X300 Pro seminovo - 2° melhor câmera do mundo!",
+    "priceTexto": "R$ 5.899",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1521450262",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1521450262",
+    "sentAt": "2026-07-27T19:12:43.086Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 87.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1521450954",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1521450954",
+    "sentAt": "2026-07-27T19:12:44.454Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 94.300",
+    "score": 87,
+    "level": "alta"
   }
 ]
