@@ -1204,5 +1204,68 @@
     "priceTexto": "R$ 99.000",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1522458344",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/oppo-find-x9-pro-5g-512gb-16gb-ram-o-rei-das-cameras-e-bateria-versao-cn-1522458344",
+    "sentAt": "2026-07-31T08:33:24.286Z",
+    "title": "Oppo Find X9 Pro 5G - 512GB / 16GB RAM (O Rei das Câmeras e Bateria) Versão CN",
+    "priceTexto": "R$ 5.590",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1522551783",
+    "url": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/celulares/vivo-x200-pro-16-512-global-1522551783",
+    "sentAt": "2026-07-31T08:33:43.470Z",
+    "title": "Vivo x200 pro 16/512 global",
+    "priceTexto": "R$ 4.700",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1500260477",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1500260477",
+    "sentAt": "2026-07-31T08:34:29.105Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 111.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1522559113",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2020-1522559113",
+    "sentAt": "2026-07-31T08:34:30.371Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 115.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1522661275",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1522661275",
+    "sentAt": "2026-07-31T08:34:31.634Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 80.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1522596472",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1522596472",
+    "sentAt": "2026-07-31T08:34:32.896Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 119.900",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1522499952",
+    "url": "https://pr.olx.com.br/regiao-de-londrina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2020-1522499952",
+    "sentAt": "2026-07-31T08:34:34.165Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2020",
+    "priceTexto": "R$ 106.900",
+    "score": 79,
+    "level": "alta"
   }
 ]
