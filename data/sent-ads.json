@@ -1305,15 +1305,6 @@
     "level": "alta"
   },
   {
-    "id": "1522841604",
-    "url": "https://ce.olx.com.br/fortaleza-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1522841604",
-    "sentAt": "2026-08-01T02:16:06.567Z",
-    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
-    "priceTexto": "R$ 93.000",
-    "score": 79,
-    "level": "alta"
-  },
-  {
     "id": "1522818921",
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1522818921",
     "sentAt": "2026-08-01T02:16:07.875Z",
@@ -1347,6 +1338,39 @@
     "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
     "priceTexto": "R$ 105.900",
     "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1522987469",
+    "url": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2019-1522987469",
+    "sentAt": "2026-08-01T20:06:14.167Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2019",
+    "priceTexto": "R$ 147.500",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1522841604",
+    "url": "https://ce.olx.com.br/fortaleza-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1522841604",
+    "sentAt": "2026-08-01T20:06:15.432Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 92.000",
+    "score": 79,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 93.000",
+        "date": "2026-08-01T02:16:06.567Z"
+      }
+    ]
+  },
+  {
+    "id": "1522178135",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1522178135",
+    "sentAt": "2026-08-01T20:06:16.690Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 94.900",
+    "score": 90,
     "level": "alta"
   }
 ]
