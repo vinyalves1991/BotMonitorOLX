@@ -1372,5 +1372,23 @@
     "priceTexto": "R$ 94.900",
     "score": 90,
     "level": "alta"
+  },
+  {
+    "id": "1523058025",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1523058025",
+    "sentAt": "2026-08-02T01:48:19.007Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 94.160",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1523015196",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/audio/fones-de-ouvido/estojo-de-carregamento-avulso-original-fone-anker-soundcore-sport-x20-sem-os-fones-1523015196",
+    "sentAt": "2026-08-02T01:48:38.467Z",
+    "title": "Estojo de Carregamento Avulso Original Fone Anker Soundcore Sport X20 (Sem os Fones)",
+    "priceTexto": "R$ 150",
+    "score": 79,
+    "level": "alta"
   }
 ]
