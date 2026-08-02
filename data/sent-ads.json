@@ -1390,5 +1390,23 @@
     "priceTexto": "R$ 150",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1523087654",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/oppo-find-x9-pro-16-512gb-cn-1523087654",
+    "sentAt": "2026-08-02T05:17:32.886Z",
+    "title": "OPPO Find X9 pro 16/512gb CN",
+    "priceTexto": "R$ 5.599",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1522955166",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/honor-magic-7-pro-1522955166",
+    "sentAt": "2026-08-02T05:18:00.414Z",
+    "title": "Honor Magic 7 Pró",
+    "priceTexto": "R$ 4.100",
+    "score": 57,
+    "level": "media"
   }
 ]
