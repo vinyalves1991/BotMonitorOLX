@@ -1408,5 +1408,59 @@
     "priceTexto": "R$ 4.100",
     "score": 57,
     "level": "media"
+  },
+  {
+    "id": "1523591454",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1523591454",
+    "sentAt": "2026-08-04T16:10:40.407Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 82.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1523581738",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1523581738",
+    "sentAt": "2026-08-04T16:10:41.680Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 98.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1523549406",
+    "url": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1523549406",
+    "sentAt": "2026-08-04T16:10:42.950Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 88.900",
+    "score": 82,
+    "level": "alta"
+  },
+  {
+    "id": "1523511625",
+    "url": "https://pr.olx.com.br/regiao-de-maringa/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1523511625",
+    "sentAt": "2026-08-04T16:10:44.268Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 87.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1523501734",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1523501734",
+    "sentAt": "2026-08-04T16:10:45.540Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 79.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1523722699",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/roupas/jaqueta-the-north-face-1523722699",
+    "sentAt": "2026-08-04T16:10:56.489Z",
+    "title": "Jaqueta The North Face",
+    "priceTexto": "R$ 380",
+    "score": 65,
+    "level": "media"
   }
 ]
