@@ -516,15 +516,6 @@
     "level": "alta"
   },
   {
-    "id": "1520252629",
-    "url": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/audio/fones-de-ouvido/fone-anker-soundcore-sport-x20-completo-na-caixa-funcionando-100-fone-para-academia-1520252629",
-    "sentAt": "2026-07-22T21:58:22.751Z",
-    "title": "Fone Anker Soundcore Sport X20 - Completo na Caixa - Funcionando 100% - Fone para academia",
-    "priceTexto": "R$ 350",
-    "score": 65,
-    "level": "media"
-  },
-  {
     "id": "1520236893",
     "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1520236893",
     "sentAt": "2026-07-22T22:58:51.288Z",
@@ -1462,5 +1453,56 @@
     "priceTexto": "R$ 380",
     "score": 65,
     "level": "media"
+  },
+  {
+    "id": "1523867199",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/vivo-x300pro-512gb-global-lacrado-1523867199",
+    "sentAt": "2026-08-06T07:34:40.159Z",
+    "title": "Vivo X300Pro 512GB Global Lacrado",
+    "priceTexto": "R$ 5.200",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1524173900",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/jovi-vivo-x300-pro-16-512gb-2-melhor-camera-do-mundo-1524173900",
+    "sentAt": "2026-08-06T07:34:41.654Z",
+    "title": "Jovi/Vivo X300 Pro - 16/512Gb - 2° melhor câmera do mundo!",
+    "priceTexto": "R$ 6.399",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1524174506",
+    "url": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/celulares/vivo-x200-pro-1524174506",
+    "sentAt": "2026-08-06T07:34:51.996Z",
+    "title": "vivo x200 pro",
+    "priceTexto": "R$ 4.700",
+    "score": 68,
+    "level": "media"
+  },
+  {
+    "id": "1524039445",
+    "url": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/audio/fones-de-ouvido/fone-realme-buds-air-3s-bluetooth-5-3-bateria-30h-4-mic-enc-cor-preto-1524039445",
+    "sentAt": "2026-08-06T07:35:11.059Z",
+    "title": "Fone Realme Buds Air 3s Bluetooth 5.3 Bateria 30h 4 Mic Enc Cor Preto",
+    "priceTexto": "R$ 299",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1520252629",
+    "url": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/audio/fones-de-ouvido/fone-anker-soundcore-sport-x20-completo-na-caixa-funcionando-100-fone-para-academia-1520252629",
+    "sentAt": "2026-08-06T07:35:54.076Z",
+    "title": "Fone Anker Soundcore Sport X20 - Completo na Caixa - Funcionando 100% - Fone para academia",
+    "priceTexto": "R$ 310",
+    "score": 57,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 350",
+        "date": "2026-07-22T21:58:22.751Z"
+      }
+    ]
   }
 ]
