@@ -1491,21 +1491,6 @@
     "level": "media"
   },
   {
-    "id": "1520252629",
-    "url": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/audio/fones-de-ouvido/fone-anker-soundcore-sport-x20-completo-na-caixa-funcionando-100-fone-para-academia-1520252629",
-    "sentAt": "2026-08-06T07:35:54.076Z",
-    "title": "Fone Anker Soundcore Sport X20 - Completo na Caixa - Funcionando 100% - Fone para academia",
-    "priceTexto": "R$ 310",
-    "score": 57,
-    "level": "media",
-    "history": [
-      {
-        "priceTexto": "R$ 350",
-        "date": "2026-07-22T21:58:22.751Z"
-      }
-    ]
-  },
-  {
     "id": "1524408544",
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1524408544",
     "sentAt": "2026-08-07T11:39:02.010Z",
@@ -1666,5 +1651,24 @@
     "priceTexto": "R$ 300",
     "score": 57,
     "level": "media"
+  },
+  {
+    "id": "1520252629",
+    "url": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/audio/fones-de-ouvido/fone-anker-soundcore-sport-x20-completo-na-caixa-funcionando-100-fone-para-academia-1520252629",
+    "sentAt": "2026-08-13T12:45:51.272Z",
+    "title": "Fone Anker Soundcore Sport X20 - Completo na Caixa - Funcionando 100% - Fone para academia",
+    "priceTexto": "R$ 306",
+    "score": 57,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 350",
+        "date": "2026-07-22T21:58:22.751Z"
+      },
+      {
+        "priceTexto": "R$ 310",
+        "date": "2026-08-06T07:35:54.076Z"
+      }
+    ]
   }
 ]
