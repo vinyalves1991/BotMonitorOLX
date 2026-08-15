@@ -1733,5 +1733,23 @@
     "priceTexto": "R$ 103.900",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1509231823",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1509231823",
+    "sentAt": "2026-08-15T12:18:24.058Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 89.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1524853415",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1524853415",
+    "sentAt": "2026-08-15T12:18:25.342Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 85.000",
+    "score": 79,
+    "level": "alta"
   }
 ]
