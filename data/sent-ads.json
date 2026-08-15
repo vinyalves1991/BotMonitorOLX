@@ -1670,5 +1670,68 @@
         "date": "2026-08-06T07:35:54.076Z"
       }
     ]
+  },
+  {
+    "id": "1526491188",
+    "url": "https://sp.olx.com.br/regiao-de-sorocaba/celulares/oppo-x9-pro-512gb-versao-cn-completo-otimo-estado-c-fone-original-oppo-enco-free-4-1526491188",
+    "sentAt": "2026-08-15T11:11:10.036Z",
+    "title": "Oppo X9 Pro 512gb Versão CN Completo - Ótimo estado c/ Fone original OPPO Enco Free 4",
+    "priceTexto": "R$ 5.600",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1526301926",
+    "url": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/celulares/vivo-x300-pro-16-512-impecavel-top-1526301926",
+    "sentAt": "2026-08-15T11:11:20.062Z",
+    "title": "Vivo x300 pro 16/512 impecável , top",
+    "priceTexto": "R$ 5.599",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1524199837",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1524199837",
+    "sentAt": "2026-08-15T11:12:13.302Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 108.900",
+    "score": 90,
+    "level": "alta"
+  },
+  {
+    "id": "1524892589",
+    "url": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1524892589",
+    "sentAt": "2026-08-15T11:12:14.539Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 90.000",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1526451737",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1526451737",
+    "sentAt": "2026-08-15T11:12:15.786Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 90.160",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1510442337",
+    "url": "https://sp.olx.com.br/regiao-de-ribeirao-preto/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1510442337",
+    "sentAt": "2026-08-15T11:12:17.005Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 91.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1524096489",
+    "url": "https://sc.olx.com.br/norte-de-santa-catarina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1524096489",
+    "sentAt": "2026-08-15T11:12:18.226Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 103.900",
+    "score": 79,
+    "level": "alta"
   }
 ]
