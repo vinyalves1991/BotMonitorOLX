@@ -621,15 +621,6 @@
     "level": "alta"
   },
   {
-    "id": "1518140950",
-    "url": "https://se.olx.com.br/sergipe/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1518140950",
-    "sentAt": "2026-07-23T06:24:51.529Z",
-    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
-    "priceTexto": "R$ 107.990",
-    "score": 87,
-    "level": "alta"
-  },
-  {
     "id": "1518721256",
     "url": "https://sp.olx.com.br/regiao-de-ribeirao-preto/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1518721256",
     "sentAt": "2026-07-23T06:24:52.758Z",
@@ -1778,5 +1769,20 @@
     "priceTexto": "R$ 89.900",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1518140950",
+    "url": "https://se.olx.com.br/sergipe/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1518140950",
+    "sentAt": "2026-08-16T02:16:56.763Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 105.990",
+    "score": 87,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 107.990",
+        "date": "2026-07-23T06:24:51.529Z"
+      }
+    ]
   }
 ]
