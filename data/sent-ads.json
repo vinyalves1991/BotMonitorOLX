@@ -1751,5 +1751,32 @@
     "priceTexto": "R$ 85.000",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1526709971",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1526709971",
+    "sentAt": "2026-08-16T00:41:00.597Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 94.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1525017306",
+    "url": "https://sp.olx.com.br/regiao-de-sorocaba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2020-1525017306",
+    "sentAt": "2026-08-16T00:41:01.879Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2020",
+    "priceTexto": "R$ 154.900",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1494827732",
+    "url": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1494827732",
+    "sentAt": "2026-08-16T00:41:03.145Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 89.900",
+    "score": 79,
+    "level": "alta"
   }
 ]
