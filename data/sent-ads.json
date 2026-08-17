@@ -1793,5 +1793,23 @@
     "priceTexto": "R$ 106.900",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1526863421",
+    "url": "https://sp.olx.com.br/grande-campinas/celulares/vivo-x200-pro-azul-512gb-1526863421",
+    "sentAt": "2026-08-17T02:13:58.614Z",
+    "title": "Vivo X200 Pro Azul 512Gb",
+    "priceTexto": "R$ 4.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1526853059",
+    "url": "https://to.olx.com.br/tocantins/celulares/vivo-x200-pro-mini-1526853059",
+    "sentAt": "2026-08-17T02:14:00.417Z",
+    "title": "VIVO X200 PRO MINI",
+    "priceTexto": "R$ 4.500",
+    "score": 67,
+    "level": "media"
   }
 ]
