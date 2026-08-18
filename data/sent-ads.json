@@ -1599,15 +1599,6 @@
     "level": "media"
   },
   {
-    "id": "1525028855",
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/roupas/jaqueta-the-north-face-1525028855",
-    "sentAt": "2026-08-11T08:04:21.316Z",
-    "title": "Jaqueta The North Face",
-    "priceTexto": "R$ 330",
-    "score": 67,
-    "level": "media"
-  },
-  {
     "id": "1525027588",
     "url": "https://sp.olx.com.br/sao-paulo-e-regiao/roupas/jaqueta-the-north-face-1525027588",
     "sentAt": "2026-08-11T08:04:22.654Z",
@@ -1811,5 +1802,47 @@
     "priceTexto": "R$ 4.500",
     "score": 67,
     "level": "media"
+  },
+  {
+    "id": "1526925368",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/celulares/honor-magic-7-pro-1526925368",
+    "sentAt": "2026-08-18T14:22:48.634Z",
+    "title": "Honor magic 7 pro",
+    "priceTexto": "R$ 4.000",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1527065426",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/audio/fones-de-ouvido/realme-buds-air-7-pro-cancelamento-de-ruido-1527065426",
+    "sentAt": "2026-08-18T14:22:59.322Z",
+    "title": "Realme Buds air 7 pro cancelamento de ruído",
+    "priceTexto": "R$ 300",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1527160000",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/roupas/jaqueta-the-north-face-1527160000",
+    "sentAt": "2026-08-18T14:23:34.085Z",
+    "title": "JAQUETA THE NORTH FACE",
+    "priceTexto": "R$ 200",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1525028855",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/roupas/jaqueta-the-north-face-1525028855",
+    "sentAt": "2026-08-18T14:23:35.430Z",
+    "title": "Jaqueta The North Face",
+    "priceTexto": "R$ 300",
+    "score": 67,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 330",
+        "date": "2026-08-11T08:04:21.316Z"
+      }
+    ]
   }
 ]
