@@ -1599,15 +1599,6 @@
     "level": "media"
   },
   {
-    "id": "1525027588",
-    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/roupas/jaqueta-the-north-face-1525027588",
-    "sentAt": "2026-08-11T08:04:22.654Z",
-    "title": "Jaqueta The North Face",
-    "priceTexto": "R$ 380",
-    "score": 57,
-    "level": "media"
-  },
-  {
     "id": "1524825804",
     "url": "https://sp.olx.com.br/grande-campinas/roupas/jaqueta-the-north-face-1524825804",
     "sentAt": "2026-08-11T08:04:23.971Z",
@@ -2060,5 +2051,29 @@
     "priceTexto": "R$ 5.600",
     "score": 57,
     "level": "media"
+  },
+  {
+    "id": "1528288069",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/roupas/jaqueta-the-north-face-tka-1528288069",
+    "sentAt": "2026-08-23T04:28:23.086Z",
+    "title": "Jaqueta The North face tka",
+    "priceTexto": "R$ 350",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1525027588",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/roupas/jaqueta-the-north-face-1525027588",
+    "sentAt": "2026-08-23T04:28:24.547Z",
+    "title": "Jaqueta The North Face",
+    "priceTexto": "R$ 300",
+    "score": 67,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 380",
+        "date": "2026-08-11T08:04:22.654Z"
+      }
+    ]
   }
 ]
