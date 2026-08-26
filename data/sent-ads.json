@@ -2237,5 +2237,23 @@
     "priceTexto": "R$ 88.000",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1529173263",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/vivo-x200-pro-impecavel-1529173263",
+    "sentAt": "2026-08-26T16:10:24.944Z",
+    "title": "Vivo x200 PRO IMPECÁVEL",
+    "priceTexto": "R$ 4.800",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1528938269",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/eletronicos-e-celulares/acessorios-de-celular/fone-bluetooth-anker-soundcore-liberty-4nc-1528938269",
+    "sentAt": "2026-08-26T16:10:52.442Z",
+    "title": "Fone bluetooth Anker Soundcore Liberty 4NC",
+    "priceTexto": "R$ 270",
+    "score": 57,
+    "level": "media"
   }
 ]
