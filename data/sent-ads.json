@@ -2129,5 +2129,68 @@
     "priceTexto": "R$ 250",
     "score": 70,
     "level": "media"
+  },
+  {
+    "id": "1528153297",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/oppo-x9-pro-cn-16-512gb-cinza-1528153297",
+    "sentAt": "2026-08-26T02:19:10.961Z",
+    "title": "Oppo x9 pro CN 16/512gb cinza",
+    "priceTexto": "R$ 5.599",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1499549266",
+    "url": "https://sp.olx.com.br/regiao-de-sorocaba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1499549266",
+    "sentAt": "2026-08-26T02:20:22.145Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 97.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1529388357",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1529388357",
+    "sentAt": "2026-08-26T02:20:23.407Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 87.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1529380089",
+    "url": "https://pr.olx.com.br/regiao-de-londrina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-attra-16v-tb-fsi-s-tronic-2017-1529380089",
+    "sentAt": "2026-08-26T02:20:24.674Z",
+    "title": "Audi A3 Sedan 1.4/ Attra. 16V TB FSI S-tronic 2017",
+    "priceTexto": "R$ 77.990",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1529280388",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1529280388",
+    "sentAt": "2026-08-26T02:20:25.935Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 84.890",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1529268139",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2021-1529268139",
+    "sentAt": "2026-08-26T02:20:27.192Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2021",
+    "priceTexto": "R$ 105.990",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1529324209",
+    "url": "https://pe.olx.com.br/grande-recife/audio/fones-de-ouvido/fone-de-ouvido-anker-soundcore-sport-x20-anc-ip68-1529324209",
+    "sentAt": "2026-08-26T02:20:46.158Z",
+    "title": "fone de ouvido anker soundcore Sport X20 ANC IP68",
+    "priceTexto": "R$ 250",
+    "score": 67,
+    "level": "media"
   }
 ]
