@@ -2327,5 +2327,50 @@
     "priceTexto": "R$ 120.990",
     "score": 67,
     "level": "media"
+  },
+  {
+    "id": "1530862473",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/vivo-x200-pro-1530862473",
+    "sentAt": "2026-08-30T23:00:59.565Z",
+    "title": "VIVO X200 PRO",
+    "priceTexto": "R$ 4.800",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1529660471",
+    "url": "https://to.olx.com.br/tocantins/celulares/vivo-x200-pro-mini-1529660471",
+    "sentAt": "2026-08-30T23:01:01.017Z",
+    "title": "Vivo X200 pro Mini",
+    "priceTexto": "R$ 4.899",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1489304222",
+    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1489304222",
+    "sentAt": "2026-08-30T23:01:44.003Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 87.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1530868842",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1530868842",
+    "sentAt": "2026-08-30T23:01:45.287Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 89.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1530771989",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1530771989",
+    "sentAt": "2026-08-30T23:01:46.610Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 95.900",
+    "score": 87,
+    "level": "alta"
   }
 ]
