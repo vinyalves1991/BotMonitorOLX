@@ -2372,5 +2372,23 @@
     "priceTexto": "R$ 95.900",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1530233691",
+    "url": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/celulares/vivo-x200-pro-512-16gb-azul-100-bateria-1530233691",
+    "sentAt": "2026-08-31T01:18:05.918Z",
+    "title": "Vivo X200 Pro 512/16GB Azul 100% bateria",
+    "priceTexto": "R$ 4.499",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1530889658",
+    "url": "https://al.olx.com.br/alagoas/audio/fones-de-ouvido/realme-buds-air-7-1530889658",
+    "sentAt": "2026-08-31T01:18:23.990Z",
+    "title": "REALME BUDS AIR 7",
+    "priceTexto": "R$ 300",
+    "score": 57,
+    "level": "media"
   }
 ]
