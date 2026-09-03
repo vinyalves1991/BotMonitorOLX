@@ -2627,5 +2627,59 @@
     "priceTexto": "R$ 98.900",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1531568169",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/honor-magic-7-pro-cn-16-512gb-1531568169",
+    "sentAt": "2026-09-03T05:20:29.622Z",
+    "title": "Honor Magic 7 pro CN - 16/512gb",
+    "priceTexto": "R$ 3.999",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1531931079",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-attra-16v-tb-fsi-s-tronic-2018-1531931079",
+    "sentAt": "2026-09-03T05:21:05.294Z",
+    "title": "Audi A3 Sedan 1.4/ Attra. 16V TB FSI S-tronic 2018",
+    "priceTexto": "R$ 92.980",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1531973082",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1531973082",
+    "sentAt": "2026-09-03T05:21:06.540Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 101.999",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1524803066",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1524803066",
+    "sentAt": "2026-09-03T05:21:07.789Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 87.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1529751018",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1529751018",
+    "sentAt": "2026-09-03T05:21:09.075Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 99.990",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1531923985",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2019-1531923985",
+    "sentAt": "2026-09-03T05:21:10.327Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2019",
+    "priceTexto": "R$ 142.990",
+    "score": 57,
+    "level": "media"
   }
 ]
