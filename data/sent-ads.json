@@ -2771,5 +2771,41 @@
     "priceTexto": "R$ 116.900",
     "score": 67,
     "level": "media"
+  },
+  {
+    "id": "1532316635",
+    "url": "https://ma.olx.com.br/regiao-de-sao-luis/celulares/vendo-esse-celular-vivo-x300-pro-1532316635",
+    "sentAt": "2026-09-08T12:04:19.567Z",
+    "title": "Vendo esse celular vivo x300 pro",
+    "priceTexto": "R$ 5.200",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1533402736",
+    "url": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/celulares/vivo-x200-pro-512-16gb-azul-100-bateria-1533402736",
+    "sentAt": "2026-09-08T12:04:29.907Z",
+    "title": "Vivo X200 Pro 512/16GB Azul 100% bateria",
+    "priceTexto": "R$ 4.599",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1533005659",
+    "url": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/celulares/realme-buds-t300-branco-1533005659",
+    "sentAt": "2026-09-08T12:04:49.110Z",
+    "title": "Realme Buds T300-Branco",
+    "priceTexto": "R$ 250",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1533369248",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/audio/fones-de-ouvido/anker-soundcore-liberty-4-nc-1533369248",
+    "sentAt": "2026-09-08T12:04:59.821Z",
+    "title": "Anker soundcore liberty 4 nc",
+    "priceTexto": "R$ 250",
+    "score": 57,
+    "level": "media"
   }
 ]
