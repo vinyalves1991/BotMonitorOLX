@@ -2870,5 +2870,23 @@
     "priceTexto": "R$ 115.900",
     "score": 75,
     "level": "alta"
+  },
+  {
+    "id": "1533662585",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/audio/fones-de-ouvido/fone-realme-buds-air-7-1533662585",
+    "sentAt": "2026-09-09T00:51:29.894Z",
+    "title": "Fone realme buds air 7",
+    "priceTexto": "R$ 300",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1533658541",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/audio/fones-de-ouvido/fone-anker-soundcore-liberty-4-nc-novos-sem-caixa-1533658541",
+    "sentAt": "2026-09-09T00:51:40.310Z",
+    "title": "Fone anker soundcore liberty 4 nc novos sem caixa",
+    "priceTexto": "R$ 250",
+    "score": 57,
+    "level": "media"
   }
 ]
