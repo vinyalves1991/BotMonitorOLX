@@ -2782,15 +2782,6 @@
     "level": "media"
   },
   {
-    "id": "1533402736",
-    "url": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/celulares/vivo-x200-pro-512-16gb-azul-100-bateria-1533402736",
-    "sentAt": "2026-09-08T12:04:29.907Z",
-    "title": "Vivo X200 Pro 512/16GB Azul 100% bateria",
-    "priceTexto": "R$ 4.599",
-    "score": 75,
-    "level": "alta"
-  },
-  {
     "id": "1533005659",
     "url": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/celulares/realme-buds-t300-branco-1533005659",
     "sentAt": "2026-09-08T12:04:49.110Z",
@@ -3095,5 +3086,20 @@
     "priceTexto": "R$ 89.000",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1533402736",
+    "url": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/celulares/vivo-x200-pro-512-16gb-azul-100-bateria-1533402736",
+    "sentAt": "2026-09-11T05:24:42.204Z",
+    "title": "Vivo X200 Pro 512/16GB Azul 100% bateria",
+    "priceTexto": "R$ 4.558",
+    "score": 67,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 4.599",
+        "date": "2026-09-08T12:04:29.907Z"
+      }
+    ]
   }
 ]
