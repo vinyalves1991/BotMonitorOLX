@@ -3155,5 +3155,23 @@
     "priceTexto": "R$ 150",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1534675560",
+    "url": "https://pr.olx.com.br/regiao-de-londrina/celulares/honor-magic-7-pro-1534675560",
+    "sentAt": "2026-09-12T00:47:31.628Z",
+    "title": "HONOR MAGIC 7 PRO",
+    "priceTexto": "R$ 3.800",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1534684460",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/audio/fones-de-ouvido/fone-anker-soundcore-liberty-4-nc-sem-caixa-1534684460",
+    "sentAt": "2026-09-12T00:47:50.341Z",
+    "title": "Fone anker soundcore liberty 4 nc sem caixa",
+    "priceTexto": "R$ 250",
+    "score": 65,
+    "level": "media"
   }
 ]
