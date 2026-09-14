@@ -3227,5 +3227,32 @@
     "priceTexto": "R$ 99.900",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1535144443",
+    "url": "https://pe.olx.com.br/grande-recife/celulares/vivo-x200-pro-1535144443",
+    "sentAt": "2026-09-14T02:17:00.832Z",
+    "title": "VIVO X200 PRO",
+    "priceTexto": "R$ 4.500",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1535144314",
+    "url": "https://ba.olx.com.br/grande-salvador/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1535144314",
+    "sentAt": "2026-09-14T02:17:44.460Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 93.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1515253050",
+    "url": "https://pr.olx.com.br/regiao-de-maringa/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2021-1515253050",
+    "sentAt": "2026-09-14T02:17:45.757Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2021",
+    "priceTexto": "R$ 114.900",
+    "score": 67,
+    "level": "media"
   }
 ]
