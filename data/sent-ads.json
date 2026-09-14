@@ -3254,5 +3254,23 @@
     "priceTexto": "R$ 114.900",
     "score": 67,
     "level": "media"
+  },
+  {
+    "id": "1535202859",
+    "url": "https://pe.olx.com.br/grande-recife/celulares/oppo-find-x9-pro-16gb-512gb-global-nf-e-garantia-1535202859",
+    "sentAt": "2026-09-14T08:16:14.199Z",
+    "title": "Oppo Find X9 Pro 16GB / 512GB Global NF e Garantia",
+    "priceTexto": "R$ 5.400",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1535200179",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1535200179",
+    "sentAt": "2026-09-14T08:17:14.282Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 92.000",
+    "score": 87,
+    "level": "alta"
   }
 ]
