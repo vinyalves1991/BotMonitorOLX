@@ -3290,5 +3290,41 @@
     "priceTexto": "R$ 83.000",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1535381263",
+    "url": "https://ma.olx.com.br/regiao-de-sao-luis/celulares/vendo-celular-vivo-x300-pro-512gb-1535381263",
+    "sentAt": "2026-09-14T20:02:04.107Z",
+    "title": "Vendo celular vivo x300 pro 512gb",
+    "priceTexto": "R$ 4.999",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1535405986",
+    "url": "https://al.olx.com.br/alagoas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1535405986",
+    "sentAt": "2026-09-14T20:02:57.652Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 100.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1535370458",
+    "url": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1535370458",
+    "sentAt": "2026-09-14T20:02:59.017Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 85.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1511563526",
+    "url": "https://sp.olx.com.br/regiao-de-sorocaba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1511563526",
+    "sentAt": "2026-09-14T20:03:00.279Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 97.900",
+    "score": 87,
+    "level": "alta"
   }
 ]
