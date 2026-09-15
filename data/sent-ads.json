@@ -3335,5 +3335,50 @@
     "priceTexto": "R$ 5.300",
     "score": 67,
     "level": "media"
+  },
+  {
+    "id": "1535558352",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/oppo-find-x9-pro-global-16gb-512gb-nf-e-garantia-1535558352",
+    "sentAt": "2026-09-15T08:08:41.912Z",
+    "title": "Oppo Find X9 Pro Global 16GB/512GB NF e Garantia",
+    "priceTexto": "R$ 5.400",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1535467867",
+    "url": "https://rn.olx.com.br/rio-grande-do-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1535467867",
+    "sentAt": "2026-09-15T08:09:43.212Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 106.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1535454675",
+    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1535454675",
+    "sentAt": "2026-09-15T08:09:44.440Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 91.990",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1535452639",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1535452639",
+    "sentAt": "2026-09-15T08:09:45.670Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 119.900",
+    "score": 70,
+    "level": "media"
+  },
+  {
+    "id": "1535445816",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-s-line-limited-1-4-tfsi-tiptro-2022-1535445816",
+    "sentAt": "2026-09-15T08:09:46.931Z",
+    "title": "Audi A3 Sedan S-line Limited 1.4 TFSI Tiptro 2022",
+    "priceTexto": "R$ 150.000",
+    "score": 57,
+    "level": "media"
   }
 ]
