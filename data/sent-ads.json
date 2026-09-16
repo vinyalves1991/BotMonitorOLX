@@ -2935,15 +2935,6 @@
     "level": "alta"
   },
   {
-    "id": "1533828386",
-    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1533828386",
-    "sentAt": "2026-09-09T18:09:56.890Z",
-    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
-    "priceTexto": "R$ 98.990",
-    "score": 87,
-    "level": "alta"
-  },
-  {
     "id": "1533863279",
     "url": "https://mg.olx.com.br/regiao-de-juiz-de-fora/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1533863279",
     "sentAt": "2026-09-09T18:09:58.145Z",
@@ -3432,6 +3423,39 @@
     "sentAt": "2026-09-16T08:03:28.693Z",
     "title": "Jaqueta the north face",
     "priceTexto": "R$ 380",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1535667685",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1535667685",
+    "sentAt": "2026-09-16T13:52:16.315Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 109.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1533828386",
+    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1533828386",
+    "sentAt": "2026-09-16T13:52:17.589Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 96.990",
+    "score": 79,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 98.990",
+        "date": "2026-09-09T18:09:56.890Z"
+      }
+    ]
+  },
+  {
+    "id": "1518805750",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2019-1518805750",
+    "sentAt": "2026-09-16T13:52:18.888Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2019",
+    "priceTexto": "R$ 138.900",
     "score": 65,
     "level": "media"
   }
