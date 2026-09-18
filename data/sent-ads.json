@@ -3635,5 +3635,32 @@
     "priceTexto": "R$ 350",
     "score": 57,
     "level": "media"
+  },
+  {
+    "id": "1536149924",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x300-pro-global-16-512gb-impecavel-1536149924",
+    "sentAt": "2026-09-18T16:48:20.219Z",
+    "title": "Vivo x300 pro global 16/512gb impecável",
+    "priceTexto": "R$ 6.299",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1536650617",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x300-pro-5g-512-gb-16-ram-filma-em-8k-versao-global-e-impecavel-1536650617",
+    "sentAt": "2026-09-18T16:48:21.553Z",
+    "title": "Vivo X300 Pro 5G//512 GB//16 Ram//Filma em 8K//Versão Global e Impecável!!",
+    "priceTexto": "R$ 6.500",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1536694956",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1536694956",
+    "sentAt": "2026-09-18T16:49:14.910Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 103.000",
+    "score": 87,
+    "level": "alta"
   }
 ]
