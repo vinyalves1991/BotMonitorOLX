@@ -3671,5 +3671,23 @@
     "priceTexto": "R$ 99.900",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1536798807",
+    "url": "https://ce.olx.com.br/fortaleza-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1536798807",
+    "sentAt": "2026-09-18T22:04:10.338Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 94.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1536770126",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1536770126",
+    "sentAt": "2026-09-18T22:04:11.634Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 109.790",
+    "score": 87,
+    "level": "alta"
   }
 ]
