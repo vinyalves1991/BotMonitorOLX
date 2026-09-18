@@ -3599,5 +3599,41 @@
     "priceTexto": "R$ 101.900",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1536513832",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/audio/equipamentos-e-acessorios-de-som/fone-realme-buds-air-5-pro-1536513832",
+    "sentAt": "2026-09-18T12:28:55.212Z",
+    "title": "Fone Realme Buds Air 5 Pro",
+    "priceTexto": "R$ 250",
+    "score": 70,
+    "level": "media"
+  },
+  {
+    "id": "1536595717",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/roupas/jaqueta-the-north-face-1536595717",
+    "sentAt": "2026-09-18T12:29:32.378Z",
+    "title": "JAQUETA THE NORTH FACE",
+    "priceTexto": "R$ 200",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1532815690",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/artigos-infantis/roupas-infantis/jaqueta-the-north-face-infantil-1532815690",
+    "sentAt": "2026-09-18T12:29:33.849Z",
+    "title": "Jaqueta The North Face Infantil",
+    "priceTexto": "R$ 360",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1530952960",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/esportes-e-lazer/roupas-esportivas/jaqueta-the-north-face-plumas-de-ganso-1530952960",
+    "sentAt": "2026-09-18T12:29:35.368Z",
+    "title": "Jaqueta the north face plumas de ganso",
+    "priceTexto": "R$ 350",
+    "score": 57,
+    "level": "media"
   }
 ]
