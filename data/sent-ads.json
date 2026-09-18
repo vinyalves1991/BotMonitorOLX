@@ -3581,5 +3581,23 @@
         "date": "2026-09-16T17:51:23.366Z"
       }
     ]
+  },
+  {
+    "id": "1536542803",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1536542803",
+    "sentAt": "2026-09-18T02:07:06.724Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 83.120",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1536517845",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1536517845",
+    "sentAt": "2026-09-18T02:07:08.007Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 101.900",
+    "score": 79,
+    "level": "alta"
   }
 ]
