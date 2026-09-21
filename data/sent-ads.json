@@ -3788,5 +3788,32 @@
     "priceTexto": "R$ 83.130",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1537351244",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1537351244",
+    "sentAt": "2026-09-21T05:39:45.455Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 91.110",
+    "score": 90,
+    "level": "alta"
+  },
+  {
+    "id": "1537328343",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1537328343",
+    "sentAt": "2026-09-21T05:39:46.697Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 85.600",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1533123553",
+    "url": "https://pe.olx.com.br/grande-recife/audio/fones-de-ouvido/fone-de-ouvido-sport-x20-anker-ip68-para-treinos-e-corridas-1533123553",
+    "sentAt": "2026-09-21T05:40:06.299Z",
+    "title": "Fone de ouvido sport X20 Anker IP68 para treinos e corridas",
+    "priceTexto": "R$ 300",
+    "score": 57,
+    "level": "media"
   }
 ]
