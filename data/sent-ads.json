@@ -3815,5 +3815,59 @@
     "priceTexto": "R$ 300",
     "score": 57,
     "level": "media"
+  },
+  {
+    "id": "1537702916",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/audio/fones-de-ouvido/fone-anker-soundcore-liberty-4-nc-novos-sem-caixa-1537702916",
+    "sentAt": "2026-09-22T10:33:35.985Z",
+    "title": "Fone anker soundcore liberty 4 nc novos sem caixa",
+    "priceTexto": "R$ 250",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1537698055",
+    "url": "https://rn.olx.com.br/rio-grande-do-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2021-1537698055",
+    "sentAt": "2026-09-22T10:33:54.176Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2021",
+    "priceTexto": "R$ 114.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1537670481",
+    "url": "https://sp.olx.com.br/regiao-de-sorocaba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2020-1537670481",
+    "sentAt": "2026-09-22T10:33:55.446Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2020",
+    "priceTexto": "R$ 155.000",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1537668928",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1537668928",
+    "sentAt": "2026-09-22T10:33:56.715Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 94.900",
+    "score": 82,
+    "level": "alta"
+  },
+  {
+    "id": "1537629921",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2021-1537629921",
+    "sentAt": "2026-09-22T10:33:57.982Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2021",
+    "priceTexto": "R$ 124.900",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1537573201",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2019-1537573201",
+    "sentAt": "2026-09-22T10:33:59.249Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2019",
+    "priceTexto": "R$ 144.900",
+    "score": 57,
+    "level": "media"
   }
 ]
