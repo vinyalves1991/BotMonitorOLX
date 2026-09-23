@@ -3914,5 +3914,23 @@
     "priceTexto": "R$ 91.900",
     "score": 90,
     "level": "alta"
+  },
+  {
+    "id": "1538011842",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x300-pro-global-16-512-impecavel-1538011842",
+    "sentAt": "2026-09-23T01:02:45.435Z",
+    "title": "Vivo x300 pro global 16/512 impecavel",
+    "priceTexto": "R$ 6.499",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1538005344",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/celulares/vivo-x300-pro-512gb-global-1538005344",
+    "sentAt": "2026-09-23T01:02:46.820Z",
+    "title": "Vivo X300 Pro 512GB Global",
+    "priceTexto": "R$ 5.200",
+    "score": 67,
+    "level": "media"
   }
 ]
