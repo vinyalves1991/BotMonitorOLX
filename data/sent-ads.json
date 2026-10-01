@@ -4301,5 +4301,50 @@
     "priceTexto": "R$ 107.890",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1540481799",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/audio/fones-de-ouvido/soundcore-liberty-4-nc-da-anker-fone-de-ouvido-bluetooth-anc-adaptativo-2-0-1540481799",
+    "sentAt": "2026-10-01T15:13:07.382Z",
+    "title": "soundcore Liberty 4 NC da Anker Fone de Ouvido Bluetooth ANC Adaptativo 2.0",
+    "priceTexto": "R$ 230",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1540557833",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1540557833",
+    "sentAt": "2026-10-01T15:13:26.183Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 112.900",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1540553635",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2020-1540553635",
+    "sentAt": "2026-10-01T15:13:27.433Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2020",
+    "priceTexto": "R$ 149.900",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1540530406",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1540530406",
+    "sentAt": "2026-10-01T15:13:28.685Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 104.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1540515082",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1540515082",
+    "sentAt": "2026-10-01T15:13:29.975Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 86.900",
+    "score": 90,
+    "level": "alta"
   }
 ]
