@@ -4321,15 +4321,6 @@
     "level": "alta"
   },
   {
-    "id": "1540553635",
-    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2020-1540553635",
-    "sentAt": "2026-10-01T15:13:27.433Z",
-    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2020",
-    "priceTexto": "R$ 149.900",
-    "score": 65,
-    "level": "media"
-  },
-  {
     "id": "1540530406",
     "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1540530406",
     "sentAt": "2026-10-01T15:13:28.685Z",
@@ -4373,5 +4364,20 @@
     "priceTexto": "R$ 4.000",
     "score": 57,
     "level": "media"
+  },
+  {
+    "id": "1540553635",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2020-1540553635",
+    "sentAt": "2026-10-02T13:21:34.645Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2020",
+    "priceTexto": "R$ 142.900",
+    "score": 57,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 149.900",
+        "date": "2026-10-01T15:13:27.433Z"
+      }
+    ]
   }
 ]
