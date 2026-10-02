@@ -4379,5 +4379,23 @@
         "date": "2026-10-01T15:13:27.433Z"
       }
     ]
+  },
+  {
+    "id": "1540822901",
+    "url": "https://pb.olx.com.br/paraiba/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1540822901",
+    "sentAt": "2026-10-02T18:49:12.066Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 88.990",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1540818984",
+    "url": "https://pr.olx.com.br/regiao-de-londrina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1540818984",
+    "sentAt": "2026-10-02T18:49:13.326Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 101.500",
+    "score": 87,
+    "level": "alta"
   }
 ]
