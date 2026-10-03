@@ -4406,5 +4406,23 @@
     "priceTexto": "R$ 99.800",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1541068941",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2020-1541068941",
+    "sentAt": "2026-10-03T16:52:57.957Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2020",
+    "priceTexto": "R$ 120.000",
+    "score": 78,
+    "level": "alta"
+  },
+  {
+    "id": "1541068694",
+    "url": "https://pe.olx.com.br/grande-recife/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1541068694",
+    "sentAt": "2026-10-03T16:52:59.196Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 86.000",
+    "score": 87,
+    "level": "alta"
   }
 ]
