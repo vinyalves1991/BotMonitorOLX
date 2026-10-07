@@ -4664,5 +4664,23 @@
         "date": "2026-09-01T00:55:12.405Z"
       }
     ]
+  },
+  {
+    "id": "1542211954",
+    "url": "https://sc.olx.com.br/florianopolis-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2019-1542211954",
+    "sentAt": "2026-10-07T20:19:28.918Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2019",
+    "priceTexto": "R$ 139.900",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1520348586",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2020-1520348586",
+    "sentAt": "2026-10-07T20:19:30.200Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2020",
+    "priceTexto": "R$ 154.990",
+    "score": 65,
+    "level": "media"
   }
 ]
