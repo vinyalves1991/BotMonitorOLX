@@ -4682,5 +4682,50 @@
     "priceTexto": "R$ 154.990",
     "score": 65,
     "level": "media"
+  },
+  {
+    "id": "1542284246",
+    "url": "https://rn.olx.com.br/rio-grande-do-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1542284246",
+    "sentAt": "2026-10-08T00:34:36.236Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 114.900",
+    "score": 67,
+    "level": "media"
+  },
+  {
+    "id": "1539025721",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-attra-16v-tb-fsi-s-tronic-2017-1539025721",
+    "sentAt": "2026-10-08T00:34:37.473Z",
+    "title": "Audi A3 Sedan 1.4/ Attra. 16V TB FSI S-tronic 2017",
+    "priceTexto": "R$ 93.990",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1542269757",
+    "url": "https://sc.olx.com.br/norte-de-santa-catarina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1542269757",
+    "sentAt": "2026-10-08T00:34:38.708Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 92.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1542264231",
+    "url": "https://am.olx.com.br/regiao-de-manaus/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1542264231",
+    "sentAt": "2026-10-08T00:34:39.946Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 84.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1542158559",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/audio/fones-de-ouvido/fone-anker-soundcore-sport-x20-leia-o-anuncio-1542158559",
+    "sentAt": "2026-10-08T00:34:58.487Z",
+    "title": "Fone Anker Soundcore Sport X20 - LEIA O ANÚNCIO",
+    "priceTexto": "R$ 190",
+    "score": 79,
+    "level": "alta"
   }
 ]
