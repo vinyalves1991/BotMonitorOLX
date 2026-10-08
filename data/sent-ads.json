@@ -3628,15 +3628,6 @@
     "level": "media"
   },
   {
-    "id": "1536149924",
-    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x300-pro-global-16-512gb-impecavel-1536149924",
-    "sentAt": "2026-09-18T16:48:20.219Z",
-    "title": "Vivo x300 pro global 16/512gb impecável",
-    "priceTexto": "R$ 6.299",
-    "score": 57,
-    "level": "media"
-  },
-  {
     "id": "1536650617",
     "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x300-pro-5g-512-gb-16-ram-filma-em-8k-versao-global-e-impecavel-1536650617",
     "sentAt": "2026-09-18T16:48:21.553Z",
@@ -4727,5 +4718,20 @@
     "priceTexto": "R$ 190",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1536149924",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x300-pro-global-16-512gb-impecavel-1536149924",
+    "sentAt": "2026-10-08T06:49:03.955Z",
+    "title": "Vivo x300 pro global 16/512gb impecável",
+    "priceTexto": "R$ 6.199",
+    "score": 57,
+    "level": "media",
+    "history": [
+      {
+        "priceTexto": "R$ 6.299",
+        "date": "2026-09-18T16:48:20.219Z"
+      }
+    ]
   }
 ]
