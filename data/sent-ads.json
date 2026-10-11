@@ -4805,5 +4805,32 @@
     "priceTexto": "R$ 101.900",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1543288724",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1543288724",
+    "sentAt": "2026-10-11T16:03:59.324Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 76.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1543196867",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1543196867",
+    "sentAt": "2026-10-11T16:04:00.630Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 83.900",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1526286718",
+    "url": "https://pr.olx.com.br/regiao-de-londrina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1526286718",
+    "sentAt": "2026-10-11T16:04:01.871Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 89.900",
+    "score": 87,
+    "level": "alta"
   }
 ]
