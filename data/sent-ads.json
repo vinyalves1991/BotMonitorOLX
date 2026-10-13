@@ -4895,5 +4895,59 @@
     "priceTexto": "R$ 5.600",
     "score": 57,
     "level": "media"
+  },
+  {
+    "id": "1543908334",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/celulares/honor-magic-7-pro-1543908334",
+    "sentAt": "2026-10-13T19:38:41.632Z",
+    "title": "Honor Magic 7 Pro",
+    "priceTexto": "R$ 4.000",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1543775485",
+    "url": "https://rn.olx.com.br/rio-grande-do-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1543775485",
+    "sentAt": "2026-10-13T19:39:16.430Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 87.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1543855014",
+    "url": "https://pa.olx.com.br/regiao-de-belem/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1543855014",
+    "sentAt": "2026-10-13T19:39:17.684Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 88.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1525635111",
+    "url": "https://mg.olx.com.br/regiao-de-juiz-de-fora/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1525635111",
+    "sentAt": "2026-10-13T19:39:18.971Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 95.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1543801411",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1543801411",
+    "sentAt": "2026-10-13T19:39:20.227Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 88.900",
+    "score": 90,
+    "level": "alta"
+  },
+  {
+    "id": "1526044011",
+    "url": "https://sp.olx.com.br/regiao-de-ribeirao-preto/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2020-1526044011",
+    "sentAt": "2026-10-13T19:39:21.472Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 119.900",
+    "score": 75,
+    "level": "alta"
   }
 ]
