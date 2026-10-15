@@ -5003,5 +5003,77 @@
     "priceTexto": "R$ 94.990",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1544239775",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x300-pro-global-azul-512gb-16gb-ram-dimensity-9500-camera-zeiss-200mp-5g-6510mah-90w-1544239775",
+    "sentAt": "2026-10-15T17:29:28.301Z",
+    "title": "Vivo X300 Pro Global Azul 512GB 16GB RAM Dimensity 9500 Câmera ZEISS 200MP 5G 6510mAh 90W!",
+    "priceTexto": "R$ 6.500",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1544277071",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x300-pro-global-16-512gb-novo-leia-1544277071",
+    "sentAt": "2026-10-15T17:29:29.713Z",
+    "title": "Vivo X300 Pro Global 16/512GB novo leia",
+    "priceTexto": "R$ 6.399",
+    "score": 65,
+    "level": "media"
+  },
+  {
+    "id": "1544238917",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x200-pro-global-512gb-16gb-ram-5g-zeiss-200mp-completo-act-olx-pay-e-cartao-ate-18x-1544238917",
+    "sentAt": "2026-10-15T17:29:40.060Z",
+    "title": "Vivo X200 Pro Global 512GB 16GB RAM 5G ZEISS 200MP completo ACT OLX PAY E CARTÃO ATÉ 18X*.",
+    "priceTexto": "R$ 5.300",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1544450144",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1544450144",
+    "sentAt": "2026-10-15T17:30:25.640Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 84.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1544439114",
+    "url": "https://go.olx.com.br/grande-goiania-e-anapolis/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1544439114",
+    "sentAt": "2026-10-15T17:30:26.930Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 91.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1526177122",
+    "url": "https://rn.olx.com.br/rio-grande-do-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1526177122",
+    "sentAt": "2026-10-15T17:30:28.195Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 89.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1544394640",
+    "url": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2019-1544394640",
+    "sentAt": "2026-10-15T17:30:29.464Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 99.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1544363475",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1544363475",
+    "sentAt": "2026-10-15T17:30:30.735Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 115.900",
+    "score": 78,
+    "level": "alta"
   }
 ]
