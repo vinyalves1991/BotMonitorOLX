@@ -1882,15 +1882,6 @@
     "level": "alta"
   },
   {
-    "id": "1527372990",
-    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1527372990",
-    "sentAt": "2026-08-18T23:13:22.214Z",
-    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
-    "priceTexto": "R$ 99.900",
-    "score": 87,
-    "level": "alta"
-  },
-  {
     "id": "1527362425",
     "url": "https://rn.olx.com.br/rio-grande-do-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1527362425",
     "sentAt": "2026-08-18T23:13:23.446Z",
@@ -5255,5 +5246,47 @@
     "priceTexto": "R$ 98.890",
     "score": 87,
     "level": "alta"
+  },
+  {
+    "id": "1545315716",
+    "url": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1545315716",
+    "sentAt": "2026-10-18T22:02:55.885Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 86.700",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1545221146",
+    "url": "https://df.olx.com.br/distrito-federal-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1545221146",
+    "sentAt": "2026-10-18T22:02:57.211Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 94.600",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1545211400",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1545211400",
+    "sentAt": "2026-10-18T22:02:58.513Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 92.000",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1527372990",
+    "url": "https://sp.olx.com.br/grande-campinas/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1527372990",
+    "sentAt": "2026-10-18T22:02:59.820Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 91.900",
+    "score": 87,
+    "level": "alta",
+    "history": [
+      {
+        "priceTexto": "R$ 99.900",
+        "date": "2026-08-18T23:13:22.214Z"
+      }
+    ]
   }
 ]
