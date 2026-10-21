@@ -5399,5 +5399,59 @@
     "priceTexto": "R$ 92.900",
     "score": 79,
     "level": "alta"
+  },
+  {
+    "id": "1545744989",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/celulares/vivo-x200-pro-global-512gb-16gb-ram-5g-zeiss-200mp-completo-act-olx-pay-e-cartao-ate-18x-1545744989",
+    "sentAt": "2026-10-21T17:46:03.088Z",
+    "title": "Vivo X200 Pro Global 512GB 16GB RAM 5G ZEISS 200MP completo ACT OLX PAY E CARTÃO ATÉ 18X*.",
+    "priceTexto": "R$ 5.100",
+    "score": 57,
+    "level": "media"
+  },
+  {
+    "id": "1546274842",
+    "url": "https://sp.olx.com.br/sao-paulo-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2018-1546274842",
+    "sentAt": "2026-10-21T17:46:46.159Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2018",
+    "priceTexto": "R$ 120.000",
+    "score": 75,
+    "level": "alta"
+  },
+  {
+    "id": "1546208623",
+    "url": "https://sc.olx.com.br/norte-de-santa-catarina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-plus-1-4-tfsi-s-tronic-2020-1546208623",
+    "sentAt": "2026-10-21T17:46:47.411Z",
+    "title": "Audi A3 Sedan Prestige Plus 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 109.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1546195774",
+    "url": "https://sp.olx.com.br/regiao-de-ribeirao-preto/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1546195774",
+    "sentAt": "2026-10-21T17:46:48.671Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 105.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1546130322",
+    "url": "https://mg.olx.com.br/belo-horizonte-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-1-4-tfsi-flex-tiptronic-4p-2017-1546130322",
+    "sentAt": "2026-10-21T17:46:49.929Z",
+    "title": "Audi A3 Sedan 1.4 TFSI Flex Tiptronic 4P 2017",
+    "priceTexto": "R$ 86.200",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1545843559",
+    "url": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1545843559",
+    "sentAt": "2026-10-21T17:46:51.199Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 109.990",
+    "score": 87,
+    "level": "alta"
   }
 ]
