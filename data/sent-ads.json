@@ -5870,5 +5870,50 @@
         "date": "2026-07-28T17:19:16.060Z"
       }
     ]
+  },
+  {
+    "id": "1550734695",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1550734695",
+    "sentAt": "2026-11-06T08:44:52.619Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 134.900",
+    "score": 78,
+    "level": "alta"
+  },
+  {
+    "id": "1550664145",
+    "url": "https://pr.olx.com.br/regiao-de-londrina/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1550664145",
+    "sentAt": "2026-11-06T08:44:53.874Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 99.900",
+    "score": 87,
+    "level": "alta"
+  },
+  {
+    "id": "1550606429",
+    "url": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-performance-2-0-tfsi-s-tronic-2019-1550606429",
+    "sentAt": "2026-11-06T08:44:55.126Z",
+    "title": "Audi A3 Sedan Performance 2.0 TFSI S-tronic 2019",
+    "priceTexto": "R$ 138.990",
+    "score": 60,
+    "level": "media"
+  },
+  {
+    "id": "1550545164",
+    "url": "https://es.olx.com.br/norte-do-espirito-santo/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2020-1550545164",
+    "sentAt": "2026-11-06T08:44:56.373Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2020",
+    "priceTexto": "R$ 105.000",
+    "score": 79,
+    "level": "alta"
+  },
+  {
+    "id": "1550545021",
+    "url": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/autos-e-pecas/carros-vans-e-utilitarios/audi-a3-sedan-prestige-1-4-tfsi-s-tronic-2019-1550545021",
+    "sentAt": "2026-11-06T08:44:57.619Z",
+    "title": "Audi A3 Sedan Prestige 1.4 TFSI S-tronic 2019",
+    "priceTexto": "R$ 104.900",
+    "score": 79,
+    "level": "alta"
   }
 ]
